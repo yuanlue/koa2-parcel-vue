@@ -1,2 +1,4 @@
 # koa2-parcel-vue
-this is project about koa2 and parcel tool to use vue 
+koa集成parcel打包 前端用vue的spa
+npm start 去启动项目
+

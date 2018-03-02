@@ -1,0 +1,15 @@
+{
+	"ignore":[
+		".git",
+		"node_modules/**/node_modules",
+		"dist/*"
+	],
+	"verbose":true,
+	"watch":[
+		"server/",
+		"src/views/",
+		"views/"
+	],
+	"ext":"js json"
+
+}

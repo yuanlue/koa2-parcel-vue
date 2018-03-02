@@ -1,0 +1,996 @@
+[2018-02-10T17:00:13.740] [INFO] resLogger - 
+*************** response log start ***************
+request method: GET
+request originalUrl:  /users/modify?id=5a7eaab490e77f9a8b79f2bf
+request client ip:  ::1
+request query:  {"id":"5a7eaab490e77f9a8b79f2bf"}
+response time: 4
+response status: 200
+response body: 
+"modify"
+*************** response log end ***************
+
+[2018-02-10T17:01:27.947] [INFO] resLogger - 
+*************** response log start ***************
+request method: GET
+request originalUrl:  /users/modify?id=5a7eaab490e77f9a8b79f2bf
+request client ip:  ::1
+request query:  {"id":"5a7eaab490e77f9a8b79f2bf"}
+response time: 4
+response status: 200
+response body: 
+"modify"
+*************** response log end ***************
+
+[2018-02-10T17:02:41.046] [INFO] resLogger - 
+*************** response log start ***************
+request method: GET
+request originalUrl:  /users/modify?id=5a7eaab490e77f9a8b79f2bf
+request client ip:  ::1
+request query:  {"id":"5a7eaab490e77f9a8b79f2bf"}
+response time: 3
+response status: 200
+response body: 
+"modify"
+*************** response log end ***************
+
+[2018-02-10T17:02:47.102] [INFO] resLogger - 
+*************** response log start ***************
+request method: GET
+request originalUrl:  /users/modify?id=5a7eaab490e77f9a8b79f2bf
+request client ip:  ::1
+request query:  {"id":"5a7eaab490e77f9a8b79f2bf"}
+response time: 1
+response status: 200
+response body: 
+"modify"
+*************** response log end ***************
+
+[2018-02-10T17:02:50.750] [INFO] resLogger - 
+*************** response log start ***************
+request method: GET
+request originalUrl:  /users/modify?id=5a7eaab490e77f9a8b79f2bf
+request client ip:  ::1
+request query:  {"id":"5a7eaab490e77f9a8b79f2bf"}
+response time: 1
+response status: 200
+response body: 
+"modify"
+*************** response log end ***************
+
+[2018-02-10T17:03:09.324] [INFO] resLogger - 
+*************** response log start ***************
+request method: GET
+request originalUrl:  /users/modify?id=5a7eaab490e77f9a8b79f2bf
+request client ip:  ::1
+request query:  {"id":"5a7eaab490e77f9a8b79f2bf"}
+response time: 0
+response status: 200
+response body: 
+"modify"
+*************** response log end ***************
+
+[2018-02-10T17:03:32.926] [INFO] resLogger - 
+*************** response log start ***************
+request method: GET
+request originalUrl:  /users/modify?id=5a7eaab490e77f9a8b79f2bf
+request client ip:  ::1
+request query:  {"id":"5a7eaab490e77f9a8b79f2bf"}
+response time: 5
+response status: 200
+response body: 
+"modify"
+*************** response log end ***************
+
+[2018-02-10T17:04:20.289] [INFO] resLogger - 
+*************** response log start ***************
+request method: GET
+request originalUrl:  /users/modify?id=5a7eaab490e77f9a8b79f2bf
+request client ip:  ::1
+request query:  {"id":"5a7eaab490e77f9a8b79f2bf"}
+response time: 18
+response status: 200
+response body: 
+"modify"
+*************** response log end ***************
+
+[2018-02-10T17:08:05.402] [INFO] resLogger - 
+*************** response log start ***************
+request method: GET
+request originalUrl:  /users/modify?id=5a7eaab490e77f9a8b79f2bf
+request client ip:  ::1
+request query:  {"id":"5a7eaab490e77f9a8b79f2bf"}
+response time: 19
+response status: 200
+response body: 
+"modify"
+*************** response log end ***************
+
+[2018-02-10T17:08:23.423] [INFO] resLogger - 
+*************** response log start ***************
+request method: GET
+request originalUrl:  /users/modify?id=5a7eaab490e77f9a8b79f2bf
+request client ip:  ::1
+request query:  {"id":"5a7eaab490e77f9a8b79f2bf"}
+response time: 6
+response status: 200
+response body: 
+"modify"
+*************** response log end ***************
+
+[2018-02-10T17:10:07.911] [INFO] resLogger - 
+*************** response log start ***************
+request method: GET
+request originalUrl:  /users/modify?id=5a7eaab490e77f9a8b79f2bf
+request client ip:  ::1
+request query:  {"id":"5a7eaab490e77f9a8b79f2bf"}
+response time: 3
+response status: 200
+response body: 
+"modify"
+*************** response log end ***************
+
+[2018-02-10T17:10:14.399] [INFO] resLogger - 
+*************** response log start ***************
+request method: GET
+request originalUrl:  /users/modify?id=5a7eaab490e77f9a8b79f2bf
+request client ip:  ::1
+request query:  {"id":"5a7eaab490e77f9a8b79f2bf"}
+response time: 1
+response status: 200
+response body: 
+"modify"
+*************** response log end ***************
+
+[2018-02-10T17:11:21.372] [INFO] resLogger - 
+*************** response log start ***************
+request method: GET
+request originalUrl:  /users/modify?id=5a7eaab490e77f9a8b79f2bf
+request client ip:  ::1
+request query:  {"id":"5a7eaab490e77f9a8b79f2bf"}
+response time: 5
+response status: 200
+response body: 
+"modify"
+*************** response log end ***************
+
+[2018-02-10T17:11:51.208] [INFO] resLogger - 
+*************** response log start ***************
+request method: GET
+request originalUrl:  /users/modify?id=5a7eaab490e77f9a8b79f2bf
+request client ip:  ::1
+request query:  {"id":"5a7eaab490e77f9a8b79f2bf"}
+response time: 4
+response status: 200
+response body: 
+"modify"
+*************** response log end ***************
+
+[2018-02-10T17:13:47.433] [INFO] resLogger - 
+*************** response log start ***************
+request method: GET
+request originalUrl:  /users/modify?id=5a7eaab490e77f9a8b79f2bf
+request client ip:  ::1
+request query:  {"id":"5a7eaab490e77f9a8b79f2bf"}
+response time: 10
+response status: 200
+response body: 
+"modify"
+*************** response log end ***************
+
+[2018-02-10T17:14:08.496] [INFO] resLogger - 
+*************** response log start ***************
+request method: GET
+request originalUrl:  /users/modify?id=5a7eaab490e77f9a8b79f2bf
+request client ip:  ::1
+request query:  {"id":"5a7eaab490e77f9a8b79f2bf"}
+response time: 1
+response status: 200
+response body: 
+"modify"
+*************** response log end ***************
+
+[2018-02-10T17:16:41.387] [INFO] resLogger - 
+*************** response log start ***************
+request method: GET
+request originalUrl:  /users/modify?id=5a7eaab490e77f9a8b79f2bf
+request client ip:  ::1
+request query:  {"id":"5a7eaab490e77f9a8b79f2bf"}
+response time: 9
+response status: 200
+response body: 
+"modify"
+*************** response log end ***************
+
+[2018-02-10T17:17:39.741] [ERROR] errorLogger - 
+*************** error log start ***************
+request method: GET
+request originalUrl:  /users/modify?id=5a7eaab490e77f9a8b79f2bf
+request client ip:  ::1
+request query:  {"id":"5a7eaab490e77f9a8b79f2bf"}
+response time: 2
+err name: ReferenceError
+err message: ObjectId is not defined
+err stack: ReferenceError: ObjectId is not defined
+    at router.get (/Users/mac/Documents/koa2-test/routes/users.js:20:10)
+    at dispatch (/Users/mac/Documents/koa2-test/node_modules/koa-router/node_modules/koa-compose/index.js:44:32)
+    at next (/Users/mac/Documents/koa2-test/node_modules/koa-router/node_modules/koa-compose/index.js:45:18)
+    at /Users/mac/Documents/koa2-test/node_modules/koa-router/lib/router.js:346:16
+    at dispatch (/Users/mac/Documents/koa2-test/node_modules/koa-router/node_modules/koa-compose/index.js:44:32)
+    at /Users/mac/Documents/koa2-test/node_modules/koa-router/node_modules/koa-compose/index.js:36:12
+    at dispatch (/Users/mac/Documents/koa2-test/node_modules/koa-router/lib/router.js:351:31)
+    at dispatch (/Users/mac/Documents/koa2-test/node_modules/koa-compose/index.js:42:32)
+    at next (/Users/mac/Documents/koa2-test/node_modules/koa-compose/index.js:43:18)
+    at dispatch (/Users/mac/Documents/koa2-test/node_modules/koa-router/lib/router.js:332:32)
+    at dispatch (/Users/mac/Documents/koa2-test/node_modules/koa-compose/index.js:42:32)
+    at next (/Users/mac/Documents/koa2-test/node_modules/koa-compose/index.js:43:18)
+    at app.use (/Users/mac/Documents/koa2-test/app.js:43:11)
+    at dispatch (/Users/mac/Documents/koa2-test/node_modules/koa-compose/index.js:42:32)
+    at next (/Users/mac/Documents/koa2-test/node_modules/koa-compose/index.js:43:18)
+    at views (/Users/mac/Documents/koa2-test/node_modules/koa-views/lib/index.js:61:12)
+    at dispatch (/Users/mac/Documents/koa2-test/node_modules/koa-compose/index.js:42:32)
+    at next (/Users/mac/Documents/koa2-test/node_modules/koa-compose/index.js:43:18)
+    at send.then.done (/Users/mac/Documents/koa2-test/node_modules/koa-static/index.js:43:20)
+    at <anonymous>
+*************** error log end ***************
+
+[2018-02-10T17:19:12.079] [ERROR] errorLogger - 
+*************** error log start ***************
+request method: GET
+request originalUrl:  /users/modify?id=5a7eaab490e77f9a8b79f2bf
+request client ip:  ::1
+request query:  {"id":"5a7eaab490e77f9a8b79f2bf"}
+response time: 3
+err name: ReferenceError
+err message: ObjectId is not defined
+err stack: ReferenceError: ObjectId is not defined
+    at router.get (/Users/mac/Documents/koa2-test/routes/users.js:20:10)
+    at dispatch (/Users/mac/Documents/koa2-test/node_modules/koa-router/node_modules/koa-compose/index.js:44:32)
+    at next (/Users/mac/Documents/koa2-test/node_modules/koa-router/node_modules/koa-compose/index.js:45:18)
+    at /Users/mac/Documents/koa2-test/node_modules/koa-router/lib/router.js:346:16
+    at dispatch (/Users/mac/Documents/koa2-test/node_modules/koa-router/node_modules/koa-compose/index.js:44:32)
+    at /Users/mac/Documents/koa2-test/node_modules/koa-router/node_modules/koa-compose/index.js:36:12
+    at dispatch (/Users/mac/Documents/koa2-test/node_modules/koa-router/lib/router.js:351:31)
+    at dispatch (/Users/mac/Documents/koa2-test/node_modules/koa-compose/index.js:42:32)
+    at next (/Users/mac/Documents/koa2-test/node_modules/koa-compose/index.js:43:18)
+    at dispatch (/Users/mac/Documents/koa2-test/node_modules/koa-router/lib/router.js:332:32)
+    at dispatch (/Users/mac/Documents/koa2-test/node_modules/koa-compose/index.js:42:32)
+    at next (/Users/mac/Documents/koa2-test/node_modules/koa-compose/index.js:43:18)
+    at app.use (/Users/mac/Documents/koa2-test/app.js:43:11)
+    at dispatch (/Users/mac/Documents/koa2-test/node_modules/koa-compose/index.js:42:32)
+    at next (/Users/mac/Documents/koa2-test/node_modules/koa-compose/index.js:43:18)
+    at views (/Users/mac/Documents/koa2-test/node_modules/koa-views/lib/index.js:61:12)
+    at dispatch (/Users/mac/Documents/koa2-test/node_modules/koa-compose/index.js:42:32)
+    at next (/Users/mac/Documents/koa2-test/node_modules/koa-compose/index.js:43:18)
+    at send.then.done (/Users/mac/Documents/koa2-test/node_modules/koa-static/index.js:43:20)
+    at <anonymous>
+*************** error log end ***************
+
+[2018-02-10T17:19:49.077] [ERROR] errorLogger - 
+*************** error log start ***************
+request method: GET
+request originalUrl:  /users/modify?id=5a7eaab490e77f9a8b79f2bf
+request client ip:  ::1
+request query:  {"id":"5a7eaab490e77f9a8b79f2bf"}
+response time: 2
+err name: ReferenceError
+err message: ObjectId is not defined
+err stack: ReferenceError: ObjectId is not defined
+    at router.get (/Users/mac/Documents/koa2-test/routes/users.js:20:10)
+    at dispatch (/Users/mac/Documents/koa2-test/node_modules/koa-router/node_modules/koa-compose/index.js:44:32)
+    at next (/Users/mac/Documents/koa2-test/node_modules/koa-router/node_modules/koa-compose/index.js:45:18)
+    at /Users/mac/Documents/koa2-test/node_modules/koa-router/lib/router.js:346:16
+    at dispatch (/Users/mac/Documents/koa2-test/node_modules/koa-router/node_modules/koa-compose/index.js:44:32)
+    at /Users/mac/Documents/koa2-test/node_modules/koa-router/node_modules/koa-compose/index.js:36:12
+    at dispatch (/Users/mac/Documents/koa2-test/node_modules/koa-router/lib/router.js:351:31)
+    at dispatch (/Users/mac/Documents/koa2-test/node_modules/koa-compose/index.js:42:32)
+    at next (/Users/mac/Documents/koa2-test/node_modules/koa-compose/index.js:43:18)
+    at dispatch (/Users/mac/Documents/koa2-test/node_modules/koa-router/lib/router.js:332:32)
+    at dispatch (/Users/mac/Documents/koa2-test/node_modules/koa-compose/index.js:42:32)
+    at next (/Users/mac/Documents/koa2-test/node_modules/koa-compose/index.js:43:18)
+    at app.use (/Users/mac/Documents/koa2-test/app.js:43:11)
+    at dispatch (/Users/mac/Documents/koa2-test/node_modules/koa-compose/index.js:42:32)
+    at next (/Users/mac/Documents/koa2-test/node_modules/koa-compose/index.js:43:18)
+    at views (/Users/mac/Documents/koa2-test/node_modules/koa-views/lib/index.js:61:12)
+    at dispatch (/Users/mac/Documents/koa2-test/node_modules/koa-compose/index.js:42:32)
+    at next (/Users/mac/Documents/koa2-test/node_modules/koa-compose/index.js:43:18)
+    at send.then.done (/Users/mac/Documents/koa2-test/node_modules/koa-static/index.js:43:20)
+    at <anonymous>
+*************** error log end ***************
+
+[2018-02-10T17:20:00.868] [ERROR] errorLogger - 
+*************** error log start ***************
+request method: GET
+request originalUrl:  /users/modify?id=5a7eaab490e77f9a8b79f2bf
+request client ip:  ::1
+request query:  {"id":"5a7eaab490e77f9a8b79f2bf"}
+response time: 0
+err name: ReferenceError
+err message: ObjectId is not defined
+err stack: ReferenceError: ObjectId is not defined
+    at router.get (/Users/mac/Documents/koa2-test/routes/users.js:20:10)
+    at dispatch (/Users/mac/Documents/koa2-test/node_modules/koa-router/node_modules/koa-compose/index.js:44:32)
+    at next (/Users/mac/Documents/koa2-test/node_modules/koa-router/node_modules/koa-compose/index.js:45:18)
+    at /Users/mac/Documents/koa2-test/node_modules/koa-router/lib/router.js:346:16
+    at dispatch (/Users/mac/Documents/koa2-test/node_modules/koa-router/node_modules/koa-compose/index.js:44:32)
+    at /Users/mac/Documents/koa2-test/node_modules/koa-router/node_modules/koa-compose/index.js:36:12
+    at dispatch (/Users/mac/Documents/koa2-test/node_modules/koa-router/lib/router.js:351:31)
+    at dispatch (/Users/mac/Documents/koa2-test/node_modules/koa-compose/index.js:42:32)
+    at next (/Users/mac/Documents/koa2-test/node_modules/koa-compose/index.js:43:18)
+    at dispatch (/Users/mac/Documents/koa2-test/node_modules/koa-router/lib/router.js:332:32)
+    at dispatch (/Users/mac/Documents/koa2-test/node_modules/koa-compose/index.js:42:32)
+    at next (/Users/mac/Documents/koa2-test/node_modules/koa-compose/index.js:43:18)
+    at app.use (/Users/mac/Documents/koa2-test/app.js:43:11)
+    at dispatch (/Users/mac/Documents/koa2-test/node_modules/koa-compose/index.js:42:32)
+    at next (/Users/mac/Documents/koa2-test/node_modules/koa-compose/index.js:43:18)
+    at views (/Users/mac/Documents/koa2-test/node_modules/koa-views/lib/index.js:61:12)
+    at dispatch (/Users/mac/Documents/koa2-test/node_modules/koa-compose/index.js:42:32)
+    at next (/Users/mac/Documents/koa2-test/node_modules/koa-compose/index.js:43:18)
+    at send.then.done (/Users/mac/Documents/koa2-test/node_modules/koa-static/index.js:43:20)
+    at <anonymous>
+*************** error log end ***************
+
+[2018-02-10T17:22:42.587] [ERROR] errorLogger - 
+*************** error log start ***************
+request method: GET
+request originalUrl:  /users/modify?id=5a7eaab490e77f9a8b79f2bf
+request client ip:  ::1
+request query:  {"id":"5a7eaab490e77f9a8b79f2bf"}
+response time: 8
+err name: ReferenceError
+err message: person is not defined
+err stack: ReferenceError: person is not defined
+    at router.get (/Users/mac/Documents/koa2-test/routes/users.js:24:3)
+    at dispatch (/Users/mac/Documents/koa2-test/node_modules/koa-router/node_modules/koa-compose/index.js:44:32)
+    at next (/Users/mac/Documents/koa2-test/node_modules/koa-router/node_modules/koa-compose/index.js:45:18)
+    at /Users/mac/Documents/koa2-test/node_modules/koa-router/lib/router.js:346:16
+    at dispatch (/Users/mac/Documents/koa2-test/node_modules/koa-router/node_modules/koa-compose/index.js:44:32)
+    at /Users/mac/Documents/koa2-test/node_modules/koa-router/node_modules/koa-compose/index.js:36:12
+    at dispatch (/Users/mac/Documents/koa2-test/node_modules/koa-router/lib/router.js:351:31)
+    at dispatch (/Users/mac/Documents/koa2-test/node_modules/koa-compose/index.js:42:32)
+    at next (/Users/mac/Documents/koa2-test/node_modules/koa-compose/index.js:43:18)
+    at dispatch (/Users/mac/Documents/koa2-test/node_modules/koa-router/lib/router.js:332:32)
+    at dispatch (/Users/mac/Documents/koa2-test/node_modules/koa-compose/index.js:42:32)
+    at next (/Users/mac/Documents/koa2-test/node_modules/koa-compose/index.js:43:18)
+    at app.use (/Users/mac/Documents/koa2-test/app.js:43:11)
+    at dispatch (/Users/mac/Documents/koa2-test/node_modules/koa-compose/index.js:42:32)
+    at next (/Users/mac/Documents/koa2-test/node_modules/koa-compose/index.js:43:18)
+    at views (/Users/mac/Documents/koa2-test/node_modules/koa-views/lib/index.js:61:12)
+    at dispatch (/Users/mac/Documents/koa2-test/node_modules/koa-compose/index.js:42:32)
+    at next (/Users/mac/Documents/koa2-test/node_modules/koa-compose/index.js:43:18)
+    at send.then.done (/Users/mac/Documents/koa2-test/node_modules/koa-static/index.js:43:20)
+    at <anonymous>
+*************** error log end ***************
+
+[2018-02-10T17:23:08.263] [ERROR] errorLogger - 
+*************** error log start ***************
+request method: GET
+request originalUrl:  /users/modify?id=5a7eaab490e77f9a8b79f2bf
+request client ip:  ::1
+request query:  {"id":"5a7eaab490e77f9a8b79f2bf"}
+response time: 6
+err name: ReferenceError
+err message: person is not defined
+err stack: ReferenceError: person is not defined
+    at router.get (/Users/mac/Documents/koa2-test/routes/users.js:24:3)
+    at dispatch (/Users/mac/Documents/koa2-test/node_modules/koa-router/node_modules/koa-compose/index.js:44:32)
+    at next (/Users/mac/Documents/koa2-test/node_modules/koa-router/node_modules/koa-compose/index.js:45:18)
+    at /Users/mac/Documents/koa2-test/node_modules/koa-router/lib/router.js:346:16
+    at dispatch (/Users/mac/Documents/koa2-test/node_modules/koa-router/node_modules/koa-compose/index.js:44:32)
+    at /Users/mac/Documents/koa2-test/node_modules/koa-router/node_modules/koa-compose/index.js:36:12
+    at dispatch (/Users/mac/Documents/koa2-test/node_modules/koa-router/lib/router.js:351:31)
+    at dispatch (/Users/mac/Documents/koa2-test/node_modules/koa-compose/index.js:42:32)
+    at next (/Users/mac/Documents/koa2-test/node_modules/koa-compose/index.js:43:18)
+    at dispatch (/Users/mac/Documents/koa2-test/node_modules/koa-router/lib/router.js:332:32)
+    at dispatch (/Users/mac/Documents/koa2-test/node_modules/koa-compose/index.js:42:32)
+    at next (/Users/mac/Documents/koa2-test/node_modules/koa-compose/index.js:43:18)
+    at app.use (/Users/mac/Documents/koa2-test/app.js:43:11)
+    at dispatch (/Users/mac/Documents/koa2-test/node_modules/koa-compose/index.js:42:32)
+    at next (/Users/mac/Documents/koa2-test/node_modules/koa-compose/index.js:43:18)
+    at views (/Users/mac/Documents/koa2-test/node_modules/koa-views/lib/index.js:61:12)
+    at dispatch (/Users/mac/Documents/koa2-test/node_modules/koa-compose/index.js:42:32)
+    at next (/Users/mac/Documents/koa2-test/node_modules/koa-compose/index.js:43:18)
+    at send.then.done (/Users/mac/Documents/koa2-test/node_modules/koa-static/index.js:43:20)
+    at <anonymous>
+*************** error log end ***************
+
+[2018-02-10T17:23:51.354] [INFO] resLogger - 
+*************** response log start ***************
+request method: GET
+request originalUrl:  /users/modify?id=5a7eaab490e77f9a8b79f2bf
+request client ip:  ::1
+request query:  {"id":"5a7eaab490e77f9a8b79f2bf"}
+response time: 8
+response status: 404
+response body: 
+undefined
+*************** response log end ***************
+
+[2018-02-10T17:25:39.144] [INFO] resLogger - 
+*************** response log start ***************
+request method: GET
+request originalUrl:  /users/modify?id=5a7eaab490e77f9a8b79f2bf
+request client ip:  ::1
+request query:  {"id":"5a7eaab490e77f9a8b79f2bf"}
+response time: 7
+response status: 404
+response body: 
+undefined
+*************** response log end ***************
+
+[2018-02-10T17:27:12.844] [ERROR] errorLogger - 
+*************** error log start ***************
+request method: GET
+request originalUrl:  /users/modify?id=5a7eaab490e77f9a8b79f2bf
+request client ip:  ::1
+request query:  {"id":"5a7eaab490e77f9a8b79f2bf"}
+response time: 2
+err name: ReferenceError
+err message: ObjectId is not defined
+err stack: ReferenceError: ObjectId is not defined
+    at router.get (/Users/mac/Documents/koa2-test/routes/users.js:19:13)
+    at dispatch (/Users/mac/Documents/koa2-test/node_modules/koa-router/node_modules/koa-compose/index.js:44:32)
+    at next (/Users/mac/Documents/koa2-test/node_modules/koa-router/node_modules/koa-compose/index.js:45:18)
+    at /Users/mac/Documents/koa2-test/node_modules/koa-router/lib/router.js:346:16
+    at dispatch (/Users/mac/Documents/koa2-test/node_modules/koa-router/node_modules/koa-compose/index.js:44:32)
+    at /Users/mac/Documents/koa2-test/node_modules/koa-router/node_modules/koa-compose/index.js:36:12
+    at dispatch (/Users/mac/Documents/koa2-test/node_modules/koa-router/lib/router.js:351:31)
+    at dispatch (/Users/mac/Documents/koa2-test/node_modules/koa-compose/index.js:42:32)
+    at next (/Users/mac/Documents/koa2-test/node_modules/koa-compose/index.js:43:18)
+    at dispatch (/Users/mac/Documents/koa2-test/node_modules/koa-router/lib/router.js:332:32)
+    at dispatch (/Users/mac/Documents/koa2-test/node_modules/koa-compose/index.js:42:32)
+    at next (/Users/mac/Documents/koa2-test/node_modules/koa-compose/index.js:43:18)
+    at app.use (/Users/mac/Documents/koa2-test/app.js:43:11)
+    at dispatch (/Users/mac/Documents/koa2-test/node_modules/koa-compose/index.js:42:32)
+    at next (/Users/mac/Documents/koa2-test/node_modules/koa-compose/index.js:43:18)
+    at views (/Users/mac/Documents/koa2-test/node_modules/koa-views/lib/index.js:61:12)
+    at dispatch (/Users/mac/Documents/koa2-test/node_modules/koa-compose/index.js:42:32)
+    at next (/Users/mac/Documents/koa2-test/node_modules/koa-compose/index.js:43:18)
+    at send.then.done (/Users/mac/Documents/koa2-test/node_modules/koa-static/index.js:43:20)
+    at <anonymous>
+*************** error log end ***************
+
+[2018-02-10T17:27:14.334] [ERROR] errorLogger - 
+*************** error log start ***************
+request method: GET
+request originalUrl:  /users/modify?id=5a7eaab490e77f9a8b79f2bf
+request client ip:  ::1
+request query:  {"id":"5a7eaab490e77f9a8b79f2bf"}
+response time: 0
+err name: ReferenceError
+err message: ObjectId is not defined
+err stack: ReferenceError: ObjectId is not defined
+    at router.get (/Users/mac/Documents/koa2-test/routes/users.js:19:13)
+    at dispatch (/Users/mac/Documents/koa2-test/node_modules/koa-router/node_modules/koa-compose/index.js:44:32)
+    at next (/Users/mac/Documents/koa2-test/node_modules/koa-router/node_modules/koa-compose/index.js:45:18)
+    at /Users/mac/Documents/koa2-test/node_modules/koa-router/lib/router.js:346:16
+    at dispatch (/Users/mac/Documents/koa2-test/node_modules/koa-router/node_modules/koa-compose/index.js:44:32)
+    at /Users/mac/Documents/koa2-test/node_modules/koa-router/node_modules/koa-compose/index.js:36:12
+    at dispatch (/Users/mac/Documents/koa2-test/node_modules/koa-router/lib/router.js:351:31)
+    at dispatch (/Users/mac/Documents/koa2-test/node_modules/koa-compose/index.js:42:32)
+    at next (/Users/mac/Documents/koa2-test/node_modules/koa-compose/index.js:43:18)
+    at dispatch (/Users/mac/Documents/koa2-test/node_modules/koa-router/lib/router.js:332:32)
+    at dispatch (/Users/mac/Documents/koa2-test/node_modules/koa-compose/index.js:42:32)
+    at next (/Users/mac/Documents/koa2-test/node_modules/koa-compose/index.js:43:18)
+    at app.use (/Users/mac/Documents/koa2-test/app.js:43:11)
+    at dispatch (/Users/mac/Documents/koa2-test/node_modules/koa-compose/index.js:42:32)
+    at next (/Users/mac/Documents/koa2-test/node_modules/koa-compose/index.js:43:18)
+    at views (/Users/mac/Documents/koa2-test/node_modules/koa-views/lib/index.js:61:12)
+    at dispatch (/Users/mac/Documents/koa2-test/node_modules/koa-compose/index.js:42:32)
+    at next (/Users/mac/Documents/koa2-test/node_modules/koa-compose/index.js:43:18)
+    at send.then.done (/Users/mac/Documents/koa2-test/node_modules/koa-static/index.js:43:20)
+    at <anonymous>
+*************** error log end ***************
+
+[2018-02-10T17:27:41.244] [ERROR] errorLogger - 
+*************** error log start ***************
+request method: GET
+request originalUrl:  /users/modify?id=5a7eaab490e77f9a8b79f2bf
+request client ip:  ::1
+request query:  {"id":"5a7eaab490e77f9a8b79f2bf"}
+response time: 1
+err name: ReferenceError
+err message: ObjectId is not defined
+err stack: ReferenceError: ObjectId is not defined
+    at router.get (/Users/mac/Documents/koa2-test/routes/users.js:19:13)
+    at dispatch (/Users/mac/Documents/koa2-test/node_modules/koa-router/node_modules/koa-compose/index.js:44:32)
+    at next (/Users/mac/Documents/koa2-test/node_modules/koa-router/node_modules/koa-compose/index.js:45:18)
+    at /Users/mac/Documents/koa2-test/node_modules/koa-router/lib/router.js:346:16
+    at dispatch (/Users/mac/Documents/koa2-test/node_modules/koa-router/node_modules/koa-compose/index.js:44:32)
+    at /Users/mac/Documents/koa2-test/node_modules/koa-router/node_modules/koa-compose/index.js:36:12
+    at dispatch (/Users/mac/Documents/koa2-test/node_modules/koa-router/lib/router.js:351:31)
+    at dispatch (/Users/mac/Documents/koa2-test/node_modules/koa-compose/index.js:42:32)
+    at next (/Users/mac/Documents/koa2-test/node_modules/koa-compose/index.js:43:18)
+    at dispatch (/Users/mac/Documents/koa2-test/node_modules/koa-router/lib/router.js:332:32)
+    at dispatch (/Users/mac/Documents/koa2-test/node_modules/koa-compose/index.js:42:32)
+    at next (/Users/mac/Documents/koa2-test/node_modules/koa-compose/index.js:43:18)
+    at app.use (/Users/mac/Documents/koa2-test/app.js:43:11)
+    at dispatch (/Users/mac/Documents/koa2-test/node_modules/koa-compose/index.js:42:32)
+    at next (/Users/mac/Documents/koa2-test/node_modules/koa-compose/index.js:43:18)
+    at views (/Users/mac/Documents/koa2-test/node_modules/koa-views/lib/index.js:61:12)
+    at dispatch (/Users/mac/Documents/koa2-test/node_modules/koa-compose/index.js:42:32)
+    at next (/Users/mac/Documents/koa2-test/node_modules/koa-compose/index.js:43:18)
+    at send.then.done (/Users/mac/Documents/koa2-test/node_modules/koa-static/index.js:43:20)
+    at <anonymous>
+*************** error log end ***************
+
+[2018-02-10T17:30:48.750] [ERROR] errorLogger - 
+*************** error log start ***************
+request method: GET
+request originalUrl:  /users/modify?id=5a7eaab490e77f9a8b79f2bf
+request client ip:  ::1
+request query:  {"id":"5a7eaab490e77f9a8b79f2bf"}
+response time: 1
+err name: ReferenceError
+err message: old is not defined
+err stack: ReferenceError: old is not defined
+    at router.get (/Users/mac/Documents/koa2-test/routes/users.js:19:3)
+    at dispatch (/Users/mac/Documents/koa2-test/node_modules/koa-router/node_modules/koa-compose/index.js:44:32)
+    at next (/Users/mac/Documents/koa2-test/node_modules/koa-router/node_modules/koa-compose/index.js:45:18)
+    at /Users/mac/Documents/koa2-test/node_modules/koa-router/lib/router.js:346:16
+    at dispatch (/Users/mac/Documents/koa2-test/node_modules/koa-router/node_modules/koa-compose/index.js:44:32)
+    at /Users/mac/Documents/koa2-test/node_modules/koa-router/node_modules/koa-compose/index.js:36:12
+    at dispatch (/Users/mac/Documents/koa2-test/node_modules/koa-router/lib/router.js:351:31)
+    at dispatch (/Users/mac/Documents/koa2-test/node_modules/koa-compose/index.js:42:32)
+    at next (/Users/mac/Documents/koa2-test/node_modules/koa-compose/index.js:43:18)
+    at dispatch (/Users/mac/Documents/koa2-test/node_modules/koa-router/lib/router.js:332:32)
+    at dispatch (/Users/mac/Documents/koa2-test/node_modules/koa-compose/index.js:42:32)
+    at next (/Users/mac/Documents/koa2-test/node_modules/koa-compose/index.js:43:18)
+    at app.use (/Users/mac/Documents/koa2-test/app.js:43:11)
+    at dispatch (/Users/mac/Documents/koa2-test/node_modules/koa-compose/index.js:42:32)
+    at next (/Users/mac/Documents/koa2-test/node_modules/koa-compose/index.js:43:18)
+    at views (/Users/mac/Documents/koa2-test/node_modules/koa-views/lib/index.js:61:12)
+    at dispatch (/Users/mac/Documents/koa2-test/node_modules/koa-compose/index.js:42:32)
+    at next (/Users/mac/Documents/koa2-test/node_modules/koa-compose/index.js:43:18)
+    at send.then.done (/Users/mac/Documents/koa2-test/node_modules/koa-static/index.js:43:20)
+    at <anonymous>
+*************** error log end ***************
+
+[2018-02-10T17:33:04.253] [ERROR] errorLogger - 
+*************** error log start ***************
+request method: GET
+request originalUrl:  /users/modify?id=5a7eaab490e77f9a8b79f2bf
+request client ip:  ::1
+request query:  {"id":"5a7eaab490e77f9a8b79f2bf"}
+response time: 2
+err name: ReferenceError
+err message: monModel is not defined
+err stack: ReferenceError: monModel is not defined
+    at router.get (/Users/mac/Documents/koa2-test/routes/users.js:23:3)
+    at dispatch (/Users/mac/Documents/koa2-test/node_modules/koa-router/node_modules/koa-compose/index.js:44:32)
+    at next (/Users/mac/Documents/koa2-test/node_modules/koa-router/node_modules/koa-compose/index.js:45:18)
+    at /Users/mac/Documents/koa2-test/node_modules/koa-router/lib/router.js:346:16
+    at dispatch (/Users/mac/Documents/koa2-test/node_modules/koa-router/node_modules/koa-compose/index.js:44:32)
+    at /Users/mac/Documents/koa2-test/node_modules/koa-router/node_modules/koa-compose/index.js:36:12
+    at dispatch (/Users/mac/Documents/koa2-test/node_modules/koa-router/lib/router.js:351:31)
+    at dispatch (/Users/mac/Documents/koa2-test/node_modules/koa-compose/index.js:42:32)
+    at next (/Users/mac/Documents/koa2-test/node_modules/koa-compose/index.js:43:18)
+    at dispatch (/Users/mac/Documents/koa2-test/node_modules/koa-router/lib/router.js:332:32)
+    at dispatch (/Users/mac/Documents/koa2-test/node_modules/koa-compose/index.js:42:32)
+    at next (/Users/mac/Documents/koa2-test/node_modules/koa-compose/index.js:43:18)
+    at app.use (/Users/mac/Documents/koa2-test/app.js:43:11)
+    at dispatch (/Users/mac/Documents/koa2-test/node_modules/koa-compose/index.js:42:32)
+    at next (/Users/mac/Documents/koa2-test/node_modules/koa-compose/index.js:43:18)
+    at views (/Users/mac/Documents/koa2-test/node_modules/koa-views/lib/index.js:61:12)
+    at dispatch (/Users/mac/Documents/koa2-test/node_modules/koa-compose/index.js:42:32)
+    at next (/Users/mac/Documents/koa2-test/node_modules/koa-compose/index.js:43:18)
+    at send.then.done (/Users/mac/Documents/koa2-test/node_modules/koa-static/index.js:43:20)
+    at <anonymous>
+*************** error log end ***************
+
+[2018-02-10T17:33:05.689] [ERROR] errorLogger - 
+*************** error log start ***************
+request method: GET
+request originalUrl:  /users/modify?id=5a7eaab490e77f9a8b79f2bf
+request client ip:  ::1
+request query:  {"id":"5a7eaab490e77f9a8b79f2bf"}
+response time: 0
+err name: ReferenceError
+err message: monModel is not defined
+err stack: ReferenceError: monModel is not defined
+    at router.get (/Users/mac/Documents/koa2-test/routes/users.js:23:3)
+    at dispatch (/Users/mac/Documents/koa2-test/node_modules/koa-router/node_modules/koa-compose/index.js:44:32)
+    at next (/Users/mac/Documents/koa2-test/node_modules/koa-router/node_modules/koa-compose/index.js:45:18)
+    at /Users/mac/Documents/koa2-test/node_modules/koa-router/lib/router.js:346:16
+    at dispatch (/Users/mac/Documents/koa2-test/node_modules/koa-router/node_modules/koa-compose/index.js:44:32)
+    at /Users/mac/Documents/koa2-test/node_modules/koa-router/node_modules/koa-compose/index.js:36:12
+    at dispatch (/Users/mac/Documents/koa2-test/node_modules/koa-router/lib/router.js:351:31)
+    at dispatch (/Users/mac/Documents/koa2-test/node_modules/koa-compose/index.js:42:32)
+    at next (/Users/mac/Documents/koa2-test/node_modules/koa-compose/index.js:43:18)
+    at dispatch (/Users/mac/Documents/koa2-test/node_modules/koa-router/lib/router.js:332:32)
+    at dispatch (/Users/mac/Documents/koa2-test/node_modules/koa-compose/index.js:42:32)
+    at next (/Users/mac/Documents/koa2-test/node_modules/koa-compose/index.js:43:18)
+    at app.use (/Users/mac/Documents/koa2-test/app.js:43:11)
+    at dispatch (/Users/mac/Documents/koa2-test/node_modules/koa-compose/index.js:42:32)
+    at next (/Users/mac/Documents/koa2-test/node_modules/koa-compose/index.js:43:18)
+    at views (/Users/mac/Documents/koa2-test/node_modules/koa-views/lib/index.js:61:12)
+    at dispatch (/Users/mac/Documents/koa2-test/node_modules/koa-compose/index.js:42:32)
+    at next (/Users/mac/Documents/koa2-test/node_modules/koa-compose/index.js:43:18)
+    at send.then.done (/Users/mac/Documents/koa2-test/node_modules/koa-static/index.js:43:20)
+    at <anonymous>
+*************** error log end ***************
+
+[2018-02-10T17:33:56.127] [ERROR] errorLogger - 
+*************** error log start ***************
+request method: GET
+request originalUrl:  /users/modify?id=5a7eaab490e77f9a8b79f2bf
+request client ip:  ::1
+request query:  {"id":"5a7eaab490e77f9a8b79f2bf"}
+response time: 2
+err name: ReferenceError
+err message: newData is not defined
+err stack: ReferenceError: newData is not defined
+    at router.get (/Users/mac/Documents/koa2-test/routes/users.js:23:26)
+    at dispatch (/Users/mac/Documents/koa2-test/node_modules/koa-router/node_modules/koa-compose/index.js:44:32)
+    at next (/Users/mac/Documents/koa2-test/node_modules/koa-router/node_modules/koa-compose/index.js:45:18)
+    at /Users/mac/Documents/koa2-test/node_modules/koa-router/lib/router.js:346:16
+    at dispatch (/Users/mac/Documents/koa2-test/node_modules/koa-router/node_modules/koa-compose/index.js:44:32)
+    at /Users/mac/Documents/koa2-test/node_modules/koa-router/node_modules/koa-compose/index.js:36:12
+    at dispatch (/Users/mac/Documents/koa2-test/node_modules/koa-router/lib/router.js:351:31)
+    at dispatch (/Users/mac/Documents/koa2-test/node_modules/koa-compose/index.js:42:32)
+    at next (/Users/mac/Documents/koa2-test/node_modules/koa-compose/index.js:43:18)
+    at dispatch (/Users/mac/Documents/koa2-test/node_modules/koa-router/lib/router.js:332:32)
+    at dispatch (/Users/mac/Documents/koa2-test/node_modules/koa-compose/index.js:42:32)
+    at next (/Users/mac/Documents/koa2-test/node_modules/koa-compose/index.js:43:18)
+    at app.use (/Users/mac/Documents/koa2-test/app.js:43:11)
+    at dispatch (/Users/mac/Documents/koa2-test/node_modules/koa-compose/index.js:42:32)
+    at next (/Users/mac/Documents/koa2-test/node_modules/koa-compose/index.js:43:18)
+    at views (/Users/mac/Documents/koa2-test/node_modules/koa-views/lib/index.js:61:12)
+    at dispatch (/Users/mac/Documents/koa2-test/node_modules/koa-compose/index.js:42:32)
+    at next (/Users/mac/Documents/koa2-test/node_modules/koa-compose/index.js:43:18)
+    at send.then.done (/Users/mac/Documents/koa2-test/node_modules/koa-static/index.js:43:20)
+    at <anonymous>
+*************** error log end ***************
+
+[2018-02-10T17:33:57.400] [ERROR] errorLogger - 
+*************** error log start ***************
+request method: GET
+request originalUrl:  /users/modify?id=5a7eaab490e77f9a8b79f2bf
+request client ip:  ::1
+request query:  {"id":"5a7eaab490e77f9a8b79f2bf"}
+response time: 0
+err name: ReferenceError
+err message: newData is not defined
+err stack: ReferenceError: newData is not defined
+    at router.get (/Users/mac/Documents/koa2-test/routes/users.js:23:26)
+    at dispatch (/Users/mac/Documents/koa2-test/node_modules/koa-router/node_modules/koa-compose/index.js:44:32)
+    at next (/Users/mac/Documents/koa2-test/node_modules/koa-router/node_modules/koa-compose/index.js:45:18)
+    at /Users/mac/Documents/koa2-test/node_modules/koa-router/lib/router.js:346:16
+    at dispatch (/Users/mac/Documents/koa2-test/node_modules/koa-router/node_modules/koa-compose/index.js:44:32)
+    at /Users/mac/Documents/koa2-test/node_modules/koa-router/node_modules/koa-compose/index.js:36:12
+    at dispatch (/Users/mac/Documents/koa2-test/node_modules/koa-router/lib/router.js:351:31)
+    at dispatch (/Users/mac/Documents/koa2-test/node_modules/koa-compose/index.js:42:32)
+    at next (/Users/mac/Documents/koa2-test/node_modules/koa-compose/index.js:43:18)
+    at dispatch (/Users/mac/Documents/koa2-test/node_modules/koa-router/lib/router.js:332:32)
+    at dispatch (/Users/mac/Documents/koa2-test/node_modules/koa-compose/index.js:42:32)
+    at next (/Users/mac/Documents/koa2-test/node_modules/koa-compose/index.js:43:18)
+    at app.use (/Users/mac/Documents/koa2-test/app.js:43:11)
+    at dispatch (/Users/mac/Documents/koa2-test/node_modules/koa-compose/index.js:42:32)
+    at next (/Users/mac/Documents/koa2-test/node_modules/koa-compose/index.js:43:18)
+    at views (/Users/mac/Documents/koa2-test/node_modules/koa-views/lib/index.js:61:12)
+    at dispatch (/Users/mac/Documents/koa2-test/node_modules/koa-compose/index.js:42:32)
+    at next (/Users/mac/Documents/koa2-test/node_modules/koa-compose/index.js:43:18)
+    at send.then.done (/Users/mac/Documents/koa2-test/node_modules/koa-static/index.js:43:20)
+    at <anonymous>
+*************** error log end ***************
+
+[2018-02-10T17:33:59.481] [ERROR] errorLogger - 
+*************** error log start ***************
+request method: GET
+request originalUrl:  /users/modify?id=5a7eaab490e77f9a8b79f2bf
+request client ip:  ::1
+request query:  {"id":"5a7eaab490e77f9a8b79f2bf"}
+response time: 0
+err name: ReferenceError
+err message: newData is not defined
+err stack: ReferenceError: newData is not defined
+    at router.get (/Users/mac/Documents/koa2-test/routes/users.js:23:26)
+    at dispatch (/Users/mac/Documents/koa2-test/node_modules/koa-router/node_modules/koa-compose/index.js:44:32)
+    at next (/Users/mac/Documents/koa2-test/node_modules/koa-router/node_modules/koa-compose/index.js:45:18)
+    at /Users/mac/Documents/koa2-test/node_modules/koa-router/lib/router.js:346:16
+    at dispatch (/Users/mac/Documents/koa2-test/node_modules/koa-router/node_modules/koa-compose/index.js:44:32)
+    at /Users/mac/Documents/koa2-test/node_modules/koa-router/node_modules/koa-compose/index.js:36:12
+    at dispatch (/Users/mac/Documents/koa2-test/node_modules/koa-router/lib/router.js:351:31)
+    at dispatch (/Users/mac/Documents/koa2-test/node_modules/koa-compose/index.js:42:32)
+    at next (/Users/mac/Documents/koa2-test/node_modules/koa-compose/index.js:43:18)
+    at dispatch (/Users/mac/Documents/koa2-test/node_modules/koa-router/lib/router.js:332:32)
+    at dispatch (/Users/mac/Documents/koa2-test/node_modules/koa-compose/index.js:42:32)
+    at next (/Users/mac/Documents/koa2-test/node_modules/koa-compose/index.js:43:18)
+    at app.use (/Users/mac/Documents/koa2-test/app.js:43:11)
+    at dispatch (/Users/mac/Documents/koa2-test/node_modules/koa-compose/index.js:42:32)
+    at next (/Users/mac/Documents/koa2-test/node_modules/koa-compose/index.js:43:18)
+    at views (/Users/mac/Documents/koa2-test/node_modules/koa-views/lib/index.js:61:12)
+    at dispatch (/Users/mac/Documents/koa2-test/node_modules/koa-compose/index.js:42:32)
+    at next (/Users/mac/Documents/koa2-test/node_modules/koa-compose/index.js:43:18)
+    at send.then.done (/Users/mac/Documents/koa2-test/node_modules/koa-static/index.js:43:20)
+    at <anonymous>
+*************** error log end ***************
+
+[2018-02-10T17:42:24.938] [INFO] resLogger - 
+*************** response log start ***************
+request method: GET
+request originalUrl:  /users/modify?id=5a7eaab490e77f9a8b79f2bf
+request client ip:  ::1
+request query:  {"id":"5a7eaab490e77f9a8b79f2bf"}
+response time: 25
+response status: 200
+response body: 
+{"pay":1000,"meta":{"createAt":"2018-02-10T08:17:56.663Z","updateAt":"2018-02-10T08:17:56.663Z"},"_id":"5a7eaab490e77f9a8b79f2bf","name":"yuanlue","tel":"18066537156","__v":0}
+*************** response log end ***************
+
+[2018-02-10T17:50:11.756] [INFO] resLogger - 
+*************** response log start ***************
+request method: GET
+request originalUrl:  /users/modify?id=5a7eaab490e77f9a8b79f2bf
+request client ip:  ::1
+request query:  {"id":"5a7eaab490e77f9a8b79f2bf"}
+response time: 29
+response status: 200
+response body: 
+{"pay":1000,"meta":{"createAt":"2018-02-10T08:17:56.663Z","updateAt":"2018-02-10T08:17:56.663Z"},"_id":"5a7eaab490e77f9a8b79f2bf","name":"yuanlue","tel":"110","__v":0}
+*************** response log end ***************
+
+[2018-02-10T17:50:20.374] [INFO] resLogger - 
+*************** response log start ***************
+request method: GET
+request originalUrl:  /users/
+request client ip:  ::1
+request query:  {}
+response time: 676
+response status: 200
+response body: 
+"<!DOCTYPE html><html><head><title></title><link rel=\"stylesheet\" href=\"/stylesheets/style.css\"></head><body><h1></h1><p>Welcome to </p><ul></ul><li> <a href=\"users/modify?id=5a7eaab490e77f9a8b79f2bf\">{ pay: 1000,\n  meta: \n   { createAt: 2018-02-10T08:17:56.663Z,\n     updateAt: 2018-02-10T09:50:11.775Z },\n  _id: 5a7eaab490e77f9a8b79f2bf,\n  name: 'yuanlue',\n  tel: '110',\n  __v: 0 }</a></li><li> <a href=\"users/modify?id=5a7eaac690e77f9a8b79f2c0\">{ pay: 1000,\n  meta: \n   { createAt: 2018-02-10T08:18:14.854Z,\n     updateAt: 2018-02-10T08:18:14.854Z },\n  _id: 5a7eaac690e77f9a8b79f2c0,\n  name: 'yuanlue',\n  tel: '18066537156',\n  __v: 0 }</a></li><li> <a href=\"users/modify?id=5a7eba27ce01749f737601d3\">{ pay: 1000,\n  meta: \n   { createAt: 2018-02-10T09:23:51.371Z,\n     updateAt: 2018-02-10T09:23:51.371Z },\n  _id: 5a7eba27ce01749f737601d3,\n  name: 'yuanlue',\n  tel: '18066537156',\n  __v: 0 }</a></li><li> <a href=\"users/modify?id=5a7eba932a5e689f8add59ee\">{ pay: 10002,\n  meta: \n   { createAt: 2018-02-10T09:25:39.160Z,\n     updateAt: 2018-02-10T09:25:39.160Z },\n  _id: 5a7eba932a5e689f8add59ee,\n  name: 'yuanlue',\n  tel: '18066537156',\n  __v: 0 }</a></li></body></html>"
+*************** response log end ***************
+
+[2018-02-10T17:50:25.148] [INFO] resLogger - 
+*************** response log start ***************
+request method: GET
+request originalUrl:  /users/users/modify?id=5a7eba27ce01749f737601d3
+request client ip:  ::1
+request query:  {"id":"5a7eba27ce01749f737601d3"}
+response time: 0
+response status: 404
+response body: 
+undefined
+*************** response log end ***************
+
+[2018-02-10T17:50:27.418] [INFO] resLogger - 
+*************** response log start ***************
+request method: GET
+request originalUrl:  /users/users/modify?id=5a7eba27ce01749f737601d3
+request client ip:  ::1
+request query:  {"id":"5a7eba27ce01749f737601d3"}
+response time: 0
+response status: 404
+response body: 
+undefined
+*************** response log end ***************
+
+[2018-02-10T17:50:35.890] [INFO] resLogger - 
+*************** response log start ***************
+request method: GET
+request originalUrl:  /users/users/modify?id=5a7eba27ce01749f737601d3
+request client ip:  ::1
+request query:  {"id":"5a7eba27ce01749f737601d3"}
+response time: 0
+response status: 404
+response body: 
+undefined
+*************** response log end ***************
+
+[2018-02-10T17:50:43.141] [INFO] resLogger - 
+*************** response log start ***************
+request method: GET
+request originalUrl:  /users/users/modify?id=5a7eba27ce01749f737601d3
+request client ip:  ::1
+request query:  {"id":"5a7eba27ce01749f737601d3"}
+response time: 1
+response status: 404
+response body: 
+undefined
+*************** response log end ***************
+
+[2018-02-10T17:51:08.048] [INFO] resLogger - 
+*************** response log start ***************
+request method: GET
+request originalUrl:  /users
+request client ip:  ::1
+request query:  {}
+response time: 500
+response status: 200
+response body: 
+"<!DOCTYPE html><html><head><title></title><link rel=\"stylesheet\" href=\"/stylesheets/style.css\"></head><body><h1></h1><p>Welcome to </p><ul></ul><li> <a href=\"/users/modify?id=5a7eaab490e77f9a8b79f2bf\">{ pay: 1000,\n  meta: \n   { createAt: 2018-02-10T08:17:56.663Z,\n     updateAt: 2018-02-10T09:50:11.775Z },\n  _id: 5a7eaab490e77f9a8b79f2bf,\n  name: 'yuanlue',\n  tel: '110',\n  __v: 0 }</a></li><li> <a href=\"/users/modify?id=5a7eaac690e77f9a8b79f2c0\">{ pay: 1000,\n  meta: \n   { createAt: 2018-02-10T08:18:14.854Z,\n     updateAt: 2018-02-10T08:18:14.854Z },\n  _id: 5a7eaac690e77f9a8b79f2c0,\n  name: 'yuanlue',\n  tel: '18066537156',\n  __v: 0 }</a></li><li> <a href=\"/users/modify?id=5a7eba27ce01749f737601d3\">{ pay: 1000,\n  meta: \n   { createAt: 2018-02-10T09:23:51.371Z,\n     updateAt: 2018-02-10T09:23:51.371Z },\n  _id: 5a7eba27ce01749f737601d3,\n  name: 'yuanlue',\n  tel: '18066537156',\n  __v: 0 }</a></li><li> <a href=\"/users/modify?id=5a7eba932a5e689f8add59ee\">{ pay: 10002,\n  meta: \n   { createAt: 2018-02-10T09:25:39.160Z,\n     updateAt: 2018-02-10T09:25:39.160Z },\n  _id: 5a7eba932a5e689f8add59ee,\n  name: 'yuanlue',\n  tel: '18066537156',\n  __v: 0 }</a></li></body></html>"
+*************** response log end ***************
+
+[2018-02-10T17:51:15.380] [INFO] resLogger - 
+*************** response log start ***************
+request method: GET
+request originalUrl:  /users/modify?id=5a7eba27ce01749f737601d3
+request client ip:  ::1
+request query:  {"id":"5a7eba27ce01749f737601d3"}
+response time: 11
+response status: 200
+response body: 
+{"pay":1000,"meta":{"createAt":"2018-02-10T09:23:51.371Z","updateAt":"2018-02-10T09:23:51.371Z"},"_id":"5a7eba27ce01749f737601d3","name":"yuanlue","tel":"110","__v":0}
+*************** response log end ***************
+
+[2018-02-10T17:51:19.383] [INFO] resLogger - 
+*************** response log start ***************
+request method: GET
+request originalUrl:  /users/modify?id=5a7eaab490e77f9a8b79f2bf
+request client ip:  ::1
+request query:  {"id":"5a7eaab490e77f9a8b79f2bf"}
+response time: 4
+response status: 200
+response body: 
+{"pay":1000,"meta":{"createAt":"2018-02-10T08:17:56.663Z","updateAt":"2018-02-10T09:50:11.775Z"},"_id":"5a7eaab490e77f9a8b79f2bf","name":"yuanlue","tel":"110","__v":0}
+*************** response log end ***************
+
+[2018-02-10T17:52:29.293] [INFO] resLogger - 
+*************** response log start ***************
+request method: GET
+request originalUrl:  /users
+request client ip:  ::1
+request query:  {}
+response time: 446
+response status: 200
+response body: 
+"<!DOCTYPE html><html><head><title></title><link rel=\"stylesheet\" href=\"/stylesheets/style.css\"></head><body><h1></h1><p>Welcome to </p><ul></ul><li> <a href=\"/users/modify?id=5a7eaab490e77f9a8b79f2bf\">{ pay: 1000,\n  meta: \n   { createAt: 2018-02-10T08:17:56.663Z,\n     updateAt: 2018-02-10T09:51:19.385Z },\n  _id: 5a7eaab490e77f9a8b79f2bf,\n  name: 'yuanlue',\n  tel: '110',\n  __v: 0 }</a></li><li> <a href=\"/users/modify?id=5a7eaac690e77f9a8b79f2c0\">{ pay: 1000,\n  meta: \n   { createAt: 2018-02-10T08:18:14.854Z,\n     updateAt: 2018-02-10T08:18:14.854Z },\n  _id: 5a7eaac690e77f9a8b79f2c0,\n  name: 'yuanlue',\n  tel: '18066537156',\n  __v: 0 }</a></li><li> <a href=\"/users/modify?id=5a7eba27ce01749f737601d3\">{ pay: 1000,\n  meta: \n   { createAt: 2018-02-10T09:23:51.371Z,\n     updateAt: 2018-02-10T09:51:15.387Z },\n  _id: 5a7eba27ce01749f737601d3,\n  name: 'yuanlue',\n  tel: '110',\n  __v: 0 }</a></li><li> <a href=\"/users/modify?id=5a7eba932a5e689f8add59ee\">{ pay: 10002,\n  meta: \n   { createAt: 2018-02-10T09:25:39.160Z,\n     updateAt: 2018-02-10T09:25:39.160Z },\n  _id: 5a7eba932a5e689f8add59ee,\n  name: 'yuanlue',\n  tel: '18066537156',\n  __v: 0 }</a></li></body></html>"
+*************** response log end ***************
+
+[2018-02-10T17:52:30.715] [INFO] resLogger - 
+*************** response log start ***************
+request method: GET
+request originalUrl:  /users/modify?id=5a7eaab490e77f9a8b79f2bf
+request client ip:  ::1
+request query:  {"id":"5a7eaab490e77f9a8b79f2bf"}
+response time: 13
+response status: 200
+response body: 
+{"pay":1000,"meta":{"createAt":"2018-02-10T08:17:56.663Z","updateAt":"2018-02-10T09:51:19.385Z"},"_id":"5a7eaab490e77f9a8b79f2bf","name":"yuanlue","tel":"120","__v":0}
+*************** response log end ***************
+
+[2018-02-10T17:53:21.469] [ERROR] errorLogger - 
+*************** error log start ***************
+request method: GET
+request originalUrl:  /users/bar
+request client ip:  ::1
+request query:  {}
+response time: 1
+err name: TypeError
+err message: person.save is not a function
+err stack: TypeError: person.save is not a function
+    at router.get (/Users/mac/Documents/koa2-test/routes/users.js:40:9)
+    at dispatch (/Users/mac/Documents/koa2-test/node_modules/koa-router/node_modules/koa-compose/index.js:44:32)
+    at next (/Users/mac/Documents/koa2-test/node_modules/koa-router/node_modules/koa-compose/index.js:45:18)
+    at /Users/mac/Documents/koa2-test/node_modules/koa-router/lib/router.js:346:16
+    at dispatch (/Users/mac/Documents/koa2-test/node_modules/koa-router/node_modules/koa-compose/index.js:44:32)
+    at /Users/mac/Documents/koa2-test/node_modules/koa-router/node_modules/koa-compose/index.js:36:12
+    at dispatch (/Users/mac/Documents/koa2-test/node_modules/koa-router/lib/router.js:351:31)
+    at dispatch (/Users/mac/Documents/koa2-test/node_modules/koa-compose/index.js:42:32)
+    at next (/Users/mac/Documents/koa2-test/node_modules/koa-compose/index.js:43:18)
+    at dispatch (/Users/mac/Documents/koa2-test/node_modules/koa-router/lib/router.js:332:32)
+    at dispatch (/Users/mac/Documents/koa2-test/node_modules/koa-compose/index.js:42:32)
+    at next (/Users/mac/Documents/koa2-test/node_modules/koa-compose/index.js:43:18)
+    at app.use (/Users/mac/Documents/koa2-test/app.js:43:11)
+    at dispatch (/Users/mac/Documents/koa2-test/node_modules/koa-compose/index.js:42:32)
+    at next (/Users/mac/Documents/koa2-test/node_modules/koa-compose/index.js:43:18)
+    at views (/Users/mac/Documents/koa2-test/node_modules/koa-views/lib/index.js:61:12)
+    at dispatch (/Users/mac/Documents/koa2-test/node_modules/koa-compose/index.js:42:32)
+    at next (/Users/mac/Documents/koa2-test/node_modules/koa-compose/index.js:43:18)
+    at send.then.done (/Users/mac/Documents/koa2-test/node_modules/koa-static/index.js:43:20)
+    at <anonymous>
+*************** error log end ***************
+
+[2018-02-10T17:53:23.191] [ERROR] errorLogger - 
+*************** error log start ***************
+request method: GET
+request originalUrl:  /users/bar
+request client ip:  ::1
+request query:  {}
+response time: 0
+err name: TypeError
+err message: person.save is not a function
+err stack: TypeError: person.save is not a function
+    at router.get (/Users/mac/Documents/koa2-test/routes/users.js:40:9)
+    at dispatch (/Users/mac/Documents/koa2-test/node_modules/koa-router/node_modules/koa-compose/index.js:44:32)
+    at next (/Users/mac/Documents/koa2-test/node_modules/koa-router/node_modules/koa-compose/index.js:45:18)
+    at /Users/mac/Documents/koa2-test/node_modules/koa-router/lib/router.js:346:16
+    at dispatch (/Users/mac/Documents/koa2-test/node_modules/koa-router/node_modules/koa-compose/index.js:44:32)
+    at /Users/mac/Documents/koa2-test/node_modules/koa-router/node_modules/koa-compose/index.js:36:12
+    at dispatch (/Users/mac/Documents/koa2-test/node_modules/koa-router/lib/router.js:351:31)
+    at dispatch (/Users/mac/Documents/koa2-test/node_modules/koa-compose/index.js:42:32)
+    at next (/Users/mac/Documents/koa2-test/node_modules/koa-compose/index.js:43:18)
+    at dispatch (/Users/mac/Documents/koa2-test/node_modules/koa-router/lib/router.js:332:32)
+    at dispatch (/Users/mac/Documents/koa2-test/node_modules/koa-compose/index.js:42:32)
+    at next (/Users/mac/Documents/koa2-test/node_modules/koa-compose/index.js:43:18)
+    at app.use (/Users/mac/Documents/koa2-test/app.js:43:11)
+    at dispatch (/Users/mac/Documents/koa2-test/node_modules/koa-compose/index.js:42:32)
+    at next (/Users/mac/Documents/koa2-test/node_modules/koa-compose/index.js:43:18)
+    at views (/Users/mac/Documents/koa2-test/node_modules/koa-views/lib/index.js:61:12)
+    at dispatch (/Users/mac/Documents/koa2-test/node_modules/koa-compose/index.js:42:32)
+    at next (/Users/mac/Documents/koa2-test/node_modules/koa-compose/index.js:43:18)
+    at send.then.done (/Users/mac/Documents/koa2-test/node_modules/koa-static/index.js:43:20)
+    at <anonymous>
+*************** error log end ***************
+
+[2018-02-10T17:54:05.490] [ERROR] errorLogger - 
+*************** error log start ***************
+request method: GET
+request originalUrl:  /users/bar
+request client ip:  ::1
+request query:  {}
+response time: 1
+err name: TypeError
+err message: person.save is not a function
+err stack: TypeError: person.save is not a function
+    at router.get (/Users/mac/Documents/koa2-test/routes/users.js:40:9)
+    at dispatch (/Users/mac/Documents/koa2-test/node_modules/koa-router/node_modules/koa-compose/index.js:44:32)
+    at next (/Users/mac/Documents/koa2-test/node_modules/koa-router/node_modules/koa-compose/index.js:45:18)
+    at /Users/mac/Documents/koa2-test/node_modules/koa-router/lib/router.js:346:16
+    at dispatch (/Users/mac/Documents/koa2-test/node_modules/koa-router/node_modules/koa-compose/index.js:44:32)
+    at /Users/mac/Documents/koa2-test/node_modules/koa-router/node_modules/koa-compose/index.js:36:12
+    at dispatch (/Users/mac/Documents/koa2-test/node_modules/koa-router/lib/router.js:351:31)
+    at dispatch (/Users/mac/Documents/koa2-test/node_modules/koa-compose/index.js:42:32)
+    at next (/Users/mac/Documents/koa2-test/node_modules/koa-compose/index.js:43:18)
+    at dispatch (/Users/mac/Documents/koa2-test/node_modules/koa-router/lib/router.js:332:32)
+    at dispatch (/Users/mac/Documents/koa2-test/node_modules/koa-compose/index.js:42:32)
+    at next (/Users/mac/Documents/koa2-test/node_modules/koa-compose/index.js:43:18)
+    at app.use (/Users/mac/Documents/koa2-test/app.js:43:11)
+    at dispatch (/Users/mac/Documents/koa2-test/node_modules/koa-compose/index.js:42:32)
+    at next (/Users/mac/Documents/koa2-test/node_modules/koa-compose/index.js:43:18)
+    at views (/Users/mac/Documents/koa2-test/node_modules/koa-views/lib/index.js:61:12)
+    at dispatch (/Users/mac/Documents/koa2-test/node_modules/koa-compose/index.js:42:32)
+    at next (/Users/mac/Documents/koa2-test/node_modules/koa-compose/index.js:43:18)
+    at send.then.done (/Users/mac/Documents/koa2-test/node_modules/koa-static/index.js:43:20)
+    at <anonymous>
+*************** error log end ***************
+
+[2018-02-10T17:57:21.923] [INFO] resLogger - 
+*************** response log start ***************
+request method: GET
+request originalUrl:  /users/bar
+request client ip:  ::1
+request query:  {}
+response time: 7
+response status: 404
+response body: 
+undefined
+*************** response log end ***************
+
+[2018-02-10T17:58:31.053] [INFO] resLogger - 
+*************** response log start ***************
+request method: GET
+request originalUrl:  /users/bar
+request client ip:  ::1
+request query:  {}
+response time: 1
+response status: 404
+response body: 
+undefined
+*************** response log end ***************
+
+[2018-02-10T17:58:53.225] [INFO] resLogger - 
+*************** response log start ***************
+request method: GET
+request originalUrl:  /users/bar
+request client ip:  ::1
+request query:  {}
+response time: 8
+response status: 404
+response body: 
+undefined
+*************** response log end ***************
+
+[2018-02-10T17:59:07.198] [INFO] resLogger - 
+*************** response log start ***************
+request method: GET
+request originalUrl:  /users/bar
+request client ip:  ::1
+request query:  {}
+response time: 0
+response status: 404
+response body: 
+undefined
+*************** response log end ***************
+

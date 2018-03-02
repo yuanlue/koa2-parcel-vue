@@ -1,0 +1,1216 @@
+[2018-02-10T16:02:30.846] [INFO] resLogger - 
+*************** response log start ***************
+request method: GET
+request originalUrl:  /users/bar
+request client ip:  ::1
+request query:  {}
+response time: 4
+response status: 200
+response body: 
+{}
+*************** response log end ***************
+
+[2018-02-10T16:03:22.703] [INFO] resLogger - 
+*************** response log start ***************
+request method: GET
+request originalUrl:  /users/bar
+request client ip:  ::1
+request query:  {}
+response time: 5
+response status: 200
+response body: 
+{}
+*************** response log end ***************
+
+[2018-02-10T16:10:51.388] [ERROR] errorLogger - 
+*************** error log start ***************
+request method: GET
+request originalUrl:  /users/bar
+request client ip:  ::1
+request query:  {}
+response time: 2
+err name: TypeError
+err message: vistor.save is not a function
+err stack: TypeError: vistor.save is not a function
+    at router.get (/Users/mac/Documents/koa2-test/routes/users.js:22:9)
+    at dispatch (/Users/mac/Documents/koa2-test/node_modules/koa-router/node_modules/koa-compose/index.js:44:32)
+    at next (/Users/mac/Documents/koa2-test/node_modules/koa-router/node_modules/koa-compose/index.js:45:18)
+    at /Users/mac/Documents/koa2-test/node_modules/koa-router/lib/router.js:346:16
+    at dispatch (/Users/mac/Documents/koa2-test/node_modules/koa-router/node_modules/koa-compose/index.js:44:32)
+    at /Users/mac/Documents/koa2-test/node_modules/koa-router/node_modules/koa-compose/index.js:36:12
+    at dispatch (/Users/mac/Documents/koa2-test/node_modules/koa-router/lib/router.js:351:31)
+    at dispatch (/Users/mac/Documents/koa2-test/node_modules/koa-compose/index.js:42:32)
+    at next (/Users/mac/Documents/koa2-test/node_modules/koa-compose/index.js:43:18)
+    at dispatch (/Users/mac/Documents/koa2-test/node_modules/koa-router/lib/router.js:332:32)
+    at dispatch (/Users/mac/Documents/koa2-test/node_modules/koa-compose/index.js:42:32)
+    at next (/Users/mac/Documents/koa2-test/node_modules/koa-compose/index.js:43:18)
+    at app.use (/Users/mac/Documents/koa2-test/app.js:40:11)
+    at dispatch (/Users/mac/Documents/koa2-test/node_modules/koa-compose/index.js:42:32)
+    at next (/Users/mac/Documents/koa2-test/node_modules/koa-compose/index.js:43:18)
+    at views (/Users/mac/Documents/koa2-test/node_modules/koa-views/lib/index.js:61:12)
+    at dispatch (/Users/mac/Documents/koa2-test/node_modules/koa-compose/index.js:42:32)
+    at next (/Users/mac/Documents/koa2-test/node_modules/koa-compose/index.js:43:18)
+    at send.then.done (/Users/mac/Documents/koa2-test/node_modules/koa-static/index.js:43:20)
+    at <anonymous>
+*************** error log end ***************
+
+[2018-02-10T16:11:24.452] [ERROR] errorLogger - 
+*************** error log start ***************
+request method: GET
+request originalUrl:  /users/bar
+request client ip:  ::1
+request query:  {}
+response time: 2
+err name: TypeError
+err message: vistor.save is not a function
+err stack: TypeError: vistor.save is not a function
+    at router.get (/Users/mac/Documents/koa2-test/routes/users.js:22:9)
+    at dispatch (/Users/mac/Documents/koa2-test/node_modules/koa-router/node_modules/koa-compose/index.js:44:32)
+    at next (/Users/mac/Documents/koa2-test/node_modules/koa-router/node_modules/koa-compose/index.js:45:18)
+    at /Users/mac/Documents/koa2-test/node_modules/koa-router/lib/router.js:346:16
+    at dispatch (/Users/mac/Documents/koa2-test/node_modules/koa-router/node_modules/koa-compose/index.js:44:32)
+    at /Users/mac/Documents/koa2-test/node_modules/koa-router/node_modules/koa-compose/index.js:36:12
+    at dispatch (/Users/mac/Documents/koa2-test/node_modules/koa-router/lib/router.js:351:31)
+    at dispatch (/Users/mac/Documents/koa2-test/node_modules/koa-compose/index.js:42:32)
+    at next (/Users/mac/Documents/koa2-test/node_modules/koa-compose/index.js:43:18)
+    at dispatch (/Users/mac/Documents/koa2-test/node_modules/koa-router/lib/router.js:332:32)
+    at dispatch (/Users/mac/Documents/koa2-test/node_modules/koa-compose/index.js:42:32)
+    at next (/Users/mac/Documents/koa2-test/node_modules/koa-compose/index.js:43:18)
+    at app.use (/Users/mac/Documents/koa2-test/app.js:40:11)
+    at dispatch (/Users/mac/Documents/koa2-test/node_modules/koa-compose/index.js:42:32)
+    at next (/Users/mac/Documents/koa2-test/node_modules/koa-compose/index.js:43:18)
+    at views (/Users/mac/Documents/koa2-test/node_modules/koa-views/lib/index.js:61:12)
+    at dispatch (/Users/mac/Documents/koa2-test/node_modules/koa-compose/index.js:42:32)
+    at next (/Users/mac/Documents/koa2-test/node_modules/koa-compose/index.js:43:18)
+    at send.then.done (/Users/mac/Documents/koa2-test/node_modules/koa-static/index.js:43:20)
+    at <anonymous>
+*************** error log end ***************
+
+[2018-02-10T16:17:56.646] [INFO] resLogger - 
+*************** response log start ***************
+request method: GET
+request originalUrl:  /users/bar
+request client ip:  ::1
+request query:  {}
+response time: 8
+response status: 404
+response body: 
+undefined
+*************** response log end ***************
+
+[2018-02-10T16:18:14.852] [INFO] resLogger - 
+*************** response log start ***************
+request method: GET
+request originalUrl:  /users/bar
+request client ip:  ::1
+request query:  {}
+response time: 1
+response status: 404
+response body: 
+undefined
+*************** response log end ***************
+
+[2018-02-10T16:36:41.814] [INFO] resLogger - 
+*************** response log start ***************
+request method: GET
+request originalUrl:  /users
+request client ip:  ::1
+request query:  {}
+response time: 30
+response status: 200
+response body: 
+{"code":200,"data":[{"pay":1000,"meta":{"createAt":"2018-02-10T08:17:56.663Z","updateAt":"2018-02-10T08:17:56.663Z"},"_id":"5a7eaab490e77f9a8b79f2bf","name":"yuanlue","tel":"18066537156","__v":0},{"pay":1000,"meta":{"createAt":"2018-02-10T08:18:14.854Z","updateAt":"2018-02-10T08:18:14.854Z"},"_id":"5a7eaac690e77f9a8b79f2c0","name":"yuanlue","tel":"18066537156","__v":0}]}
+*************** response log end ***************
+
+[2018-02-10T16:37:02.882] [INFO] resLogger - 
+*************** response log start ***************
+request method: GET
+request originalUrl:  /users
+request client ip:  ::1
+request query:  {}
+response time: 21
+response status: 200
+response body: 
+{"code":200,"data":[{"pay":1000,"meta":{"createAt":"2018-02-10T08:17:56.663Z","updateAt":"2018-02-10T08:17:56.663Z"},"_id":"5a7eaab490e77f9a8b79f2bf","name":"yuanlue","tel":"18066537156","__v":0},{"pay":1000,"meta":{"createAt":"2018-02-10T08:18:14.854Z","updateAt":"2018-02-10T08:18:14.854Z"},"_id":"5a7eaac690e77f9a8b79f2c0","name":"yuanlue","tel":"18066537156","__v":0}]}
+*************** response log end ***************
+
+[2018-02-10T16:38:14.092] [INFO] resLogger - 
+*************** response log start ***************
+request method: GET
+request originalUrl:  /users
+request client ip:  ::1
+request query:  {}
+response time: 628
+response status: 200
+response body: 
+"<!DOCTYPE html><html><head><title></title><link rel=\"stylesheet\" href=\"/stylesheets/style.css\"></head><body><h1></h1><p>Welcome to </p></body></html>"
+*************** response log end ***************
+
+[2018-02-10T16:40:52.717] [INFO] resLogger - 
+*************** response log start ***************
+request method: GET
+request originalUrl:  /users
+request client ip:  ::1
+request query:  {}
+response time: 536
+response status: 404
+response body: 
+undefined
+*************** response log end ***************
+
+[2018-02-10T16:40:54.434] [INFO] resLogger - 
+*************** response log start ***************
+request method: GET
+request originalUrl:  /users
+request client ip:  ::1
+request query:  {}
+response time: 6
+response status: 404
+response body: 
+undefined
+*************** response log end ***************
+
+[2018-02-10T16:41:19.164] [INFO] resLogger - 
+*************** response log start ***************
+request method: GET
+request originalUrl:  /users
+request client ip:  ::1
+request query:  {}
+response time: 371
+response status: 404
+response body: 
+undefined
+*************** response log end ***************
+
+[2018-02-10T16:41:45.648] [INFO] resLogger - 
+*************** response log start ***************
+request method: GET
+request originalUrl:  /users
+request client ip:  ::1
+request query:  {}
+response time: 373
+response status: 404
+response body: 
+undefined
+*************** response log end ***************
+
+[2018-02-10T16:42:08.207] [INFO] resLogger - 
+*************** response log start ***************
+request method: GET
+request originalUrl:  /users
+request client ip:  ::1
+request query:  {}
+response time: 374
+response status: 404
+response body: 
+undefined
+*************** response log end ***************
+
+[2018-02-10T16:42:30.841] [INFO] resLogger - 
+*************** response log start ***************
+request method: GET
+request originalUrl:  /users
+request client ip:  ::1
+request query:  {}
+response time: 374
+response status: 404
+response body: 
+undefined
+*************** response log end ***************
+
+[2018-02-10T16:42:31.898] [INFO] resLogger - 
+*************** response log start ***************
+request method: GET
+request originalUrl:  /users
+request client ip:  ::1
+request query:  {}
+response time: 8
+response status: 404
+response body: 
+undefined
+*************** response log end ***************
+
+[2018-02-10T16:43:07.162] [INFO] resLogger - 
+*************** response log start ***************
+request method: GET
+request originalUrl:  /users
+request client ip:  ::1
+request query:  {}
+response time: 476
+response status: 200
+response body: 
+"<!DOCTYPE html><html><head><title></title><link rel=\"stylesheet\" href=\"/stylesheets/style.css\"></head><body><h1></h1><p>Welcome to </p><ul></ul><li>data[i]</li><li>data[i]</li></body></html>"
+*************** response log end ***************
+
+[2018-02-10T16:43:24.150] [INFO] resLogger - 
+*************** response log start ***************
+request method: GET
+request originalUrl:  /users
+request client ip:  ::1
+request query:  {}
+response time: 419
+response status: 200
+response body: 
+"<!DOCTYPE html><html><head><title></title><link rel=\"stylesheet\" href=\"/stylesheets/style.css\"></head><body><h1></h1><p>Welcome to </p><ul></ul><li>{ pay: 1000,\n  meta: \n   { createAt: 2018-02-10T08:17:56.663Z,\n     updateAt: 2018-02-10T08:17:56.663Z },\n  _id: 5a7eaab490e77f9a8b79f2bf,\n  name: 'yuanlue',\n  tel: '18066537156',\n  __v: 0 }</li><li>{ pay: 1000,\n  meta: \n   { createAt: 2018-02-10T08:18:14.854Z,\n     updateAt: 2018-02-10T08:18:14.854Z },\n  _id: 5a7eaac690e77f9a8b79f2c0,\n  name: 'yuanlue',\n  tel: '18066537156',\n  __v: 0 }</li></body></html>"
+*************** response log end ***************
+
+[2018-02-10T16:43:48.557] [INFO] resLogger - 
+*************** response log start ***************
+request method: GET
+request originalUrl:  /users
+request client ip:  ::1
+request query:  {}
+response time: 429
+response status: 200
+response body: 
+"<!DOCTYPE html><html><head><title></title><link rel=\"stylesheet\" href=\"/stylesheets/style.css\"></head><body><h1></h1><p>Welcome to </p><ul></ul><li>5a7eaab490e77f9a8b79f2bf</li><li>5a7eaac690e77f9a8b79f2c0</li></body></html>"
+*************** response log end ***************
+
+[2018-02-10T16:45:37.377] [INFO] resLogger - 
+*************** response log start ***************
+request method: GET
+request originalUrl:  /users
+request client ip:  ::1
+request query:  {}
+response time: 426
+response status: 200
+response body: 
+"<!DOCTYPE html><html><head><title></title><link rel=\"stylesheet\" href=\"/stylesheets/style.css\"></head><body><h1></h1><p>Welcome to </p><ul></ul><li> <a href=\"modify\">{ pay: 1000,\n  meta: \n   { createAt: 2018-02-10T08:17:56.663Z,\n     updateAt: 2018-02-10T08:17:56.663Z },\n  _id: 5a7eaab490e77f9a8b79f2bf,\n  name: 'yuanlue',\n  tel: '18066537156',\n  __v: 0 }</a></li><li> <a href=\"modify\">{ pay: 1000,\n  meta: \n   { createAt: 2018-02-10T08:18:14.854Z,\n     updateAt: 2018-02-10T08:18:14.854Z },\n  _id: 5a7eaac690e77f9a8b79f2c0,\n  name: 'yuanlue',\n  tel: '18066537156',\n  __v: 0 }</a></li></body></html>"
+*************** response log end ***************
+
+[2018-02-10T16:45:38.926] [INFO] resLogger - 
+*************** response log start ***************
+request method: GET
+request originalUrl:  /modify
+request client ip:  ::1
+request query:  {}
+response time: 0
+response status: 404
+response body: 
+undefined
+*************** response log end ***************
+
+[2018-02-10T16:45:42.854] [INFO] resLogger - 
+*************** response log start ***************
+request method: GET
+request originalUrl:  /modify
+request client ip:  ::1
+request query:  {}
+response time: 1
+response status: 404
+response body: 
+undefined
+*************** response log end ***************
+
+[2018-02-10T16:46:10.014] [INFO] resLogger - 
+*************** response log start ***************
+request method: GET
+request originalUrl:  /modify
+request client ip:  ::1
+request query:  {}
+response time: 1
+response status: 404
+response body: 
+undefined
+*************** response log end ***************
+
+[2018-02-10T16:46:23.544] [ERROR] errorLogger - 
+*************** error log start ***************
+request method: GET
+request originalUrl:  /
+request client ip:  ::1
+request query:  {}
+response time: 407
+err name: TypeError
+err message: /Users/mac/Documents/koa2-test/views/index.pug:8
+    6|   ul
+    7|   if data
+  > 8|   -for(var i = 0 ;i<data.length;i++){
+    9|     li 
+    10|       a(href="users/modify") #{data[i]}
+    11|   - }
+
+Cannot read property 'length' of undefined
+err stack: TypeError: /Users/mac/Documents/koa2-test/views/index.pug:8
+    6|   ul
+    7|   if data
+  > 8|   -for(var i = 0 ;i<data.length;i++){
+    9|     li 
+    10|       a(href="users/modify") #{data[i]}
+    11|   - }
+
+Cannot read property 'length' of undefined
+    at eval (eval at wrap (/Users/mac/Documents/koa2-test/node_modules/pug-runtime/wrap.js:6:10), <anonymous>:34:23)
+    at template (eval at wrap (/Users/mac/Documents/koa2-test/node_modules/pug-runtime/wrap.js:6:10), <anonymous>:47:72)
+    at /Users/mac/Documents/koa2-test/node_modules/consolidate/lib/consolidate.js:809:16
+    at /Users/mac/Documents/koa2-test/node_modules/consolidate/lib/consolidate.js:144:5
+    at Promise._execute (/Users/mac/Documents/koa2-test/node_modules/bluebird/js/release/debuggability.js:303:9)
+    at Promise._resolveFromExecutor (/Users/mac/Documents/koa2-test/node_modules/bluebird/js/release/promise.js:483:18)
+    at new Promise (/Users/mac/Documents/koa2-test/node_modules/bluebird/js/release/promise.js:79:10)
+    at promisify (/Users/mac/Documents/koa2-test/node_modules/consolidate/lib/consolidate.js:137:10)
+    at exports.pug (/Users/mac/Documents/koa2-test/node_modules/consolidate/lib/consolidate.js:793:10)
+    at /Users/mac/Documents/koa2-test/node_modules/koa-views/lib/index.js:53:20
+    at <anonymous>
+*************** error log end ***************
+
+[2018-02-10T16:46:24.165] [ERROR] errorLogger - 
+*************** error log start ***************
+request method: GET
+request originalUrl:  /
+request client ip:  ::1
+request query:  {}
+response time: 23
+err name: TypeError
+err message: /Users/mac/Documents/koa2-test/views/index.pug:8
+    6|   ul
+    7|   if data
+  > 8|   -for(var i = 0 ;i<data.length;i++){
+    9|     li 
+    10|       a(href="users/modify") #{data[i]}
+    11|   - }
+
+Cannot read property 'length' of undefined
+err stack: TypeError: /Users/mac/Documents/koa2-test/views/index.pug:8
+    6|   ul
+    7|   if data
+  > 8|   -for(var i = 0 ;i<data.length;i++){
+    9|     li 
+    10|       a(href="users/modify") #{data[i]}
+    11|   - }
+
+Cannot read property 'length' of undefined
+    at eval (eval at wrap (/Users/mac/Documents/koa2-test/node_modules/pug-runtime/wrap.js:6:10), <anonymous>:34:23)
+    at template (eval at wrap (/Users/mac/Documents/koa2-test/node_modules/pug-runtime/wrap.js:6:10), <anonymous>:47:72)
+    at /Users/mac/Documents/koa2-test/node_modules/consolidate/lib/consolidate.js:809:16
+    at /Users/mac/Documents/koa2-test/node_modules/consolidate/lib/consolidate.js:144:5
+    at Promise._execute (/Users/mac/Documents/koa2-test/node_modules/bluebird/js/release/debuggability.js:303:9)
+    at Promise._resolveFromExecutor (/Users/mac/Documents/koa2-test/node_modules/bluebird/js/release/promise.js:483:18)
+    at new Promise (/Users/mac/Documents/koa2-test/node_modules/bluebird/js/release/promise.js:79:10)
+    at promisify (/Users/mac/Documents/koa2-test/node_modules/consolidate/lib/consolidate.js:137:10)
+    at exports.pug (/Users/mac/Documents/koa2-test/node_modules/consolidate/lib/consolidate.js:793:10)
+    at /Users/mac/Documents/koa2-test/node_modules/koa-views/lib/index.js:53:20
+    at <anonymous>
+*************** error log end ***************
+
+[2018-02-10T16:46:43.024] [ERROR] errorLogger - 
+*************** error log start ***************
+request method: GET
+request originalUrl:  /
+request client ip:  ::1
+request query:  {}
+response time: 390
+err name: TypeError
+err message: /Users/mac/Documents/koa2-test/views/index.pug:8
+    6|   ul
+    7|   if data
+  > 8|   -for(var i = 0 ;i<data.length;i++){
+    9|     li 
+    10|       a(href="/users/modify") #{data[i]}
+    11|   - }
+
+Cannot read property 'length' of undefined
+err stack: TypeError: /Users/mac/Documents/koa2-test/views/index.pug:8
+    6|   ul
+    7|   if data
+  > 8|   -for(var i = 0 ;i<data.length;i++){
+    9|     li 
+    10|       a(href="/users/modify") #{data[i]}
+    11|   - }
+
+Cannot read property 'length' of undefined
+    at eval (eval at wrap (/Users/mac/Documents/koa2-test/node_modules/pug-runtime/wrap.js:6:10), <anonymous>:34:23)
+    at template (eval at wrap (/Users/mac/Documents/koa2-test/node_modules/pug-runtime/wrap.js:6:10), <anonymous>:47:72)
+    at /Users/mac/Documents/koa2-test/node_modules/consolidate/lib/consolidate.js:809:16
+    at /Users/mac/Documents/koa2-test/node_modules/consolidate/lib/consolidate.js:144:5
+    at Promise._execute (/Users/mac/Documents/koa2-test/node_modules/bluebird/js/release/debuggability.js:303:9)
+    at Promise._resolveFromExecutor (/Users/mac/Documents/koa2-test/node_modules/bluebird/js/release/promise.js:483:18)
+    at new Promise (/Users/mac/Documents/koa2-test/node_modules/bluebird/js/release/promise.js:79:10)
+    at promisify (/Users/mac/Documents/koa2-test/node_modules/consolidate/lib/consolidate.js:137:10)
+    at exports.pug (/Users/mac/Documents/koa2-test/node_modules/consolidate/lib/consolidate.js:793:10)
+    at /Users/mac/Documents/koa2-test/node_modules/koa-views/lib/index.js:53:20
+    at <anonymous>
+*************** error log end ***************
+
+[2018-02-10T16:46:43.984] [ERROR] errorLogger - 
+*************** error log start ***************
+request method: GET
+request originalUrl:  /
+request client ip:  ::1
+request query:  {}
+response time: 25
+err name: TypeError
+err message: /Users/mac/Documents/koa2-test/views/index.pug:8
+    6|   ul
+    7|   if data
+  > 8|   -for(var i = 0 ;i<data.length;i++){
+    9|     li 
+    10|       a(href="/users/modify") #{data[i]}
+    11|   - }
+
+Cannot read property 'length' of undefined
+err stack: TypeError: /Users/mac/Documents/koa2-test/views/index.pug:8
+    6|   ul
+    7|   if data
+  > 8|   -for(var i = 0 ;i<data.length;i++){
+    9|     li 
+    10|       a(href="/users/modify") #{data[i]}
+    11|   - }
+
+Cannot read property 'length' of undefined
+    at eval (eval at wrap (/Users/mac/Documents/koa2-test/node_modules/pug-runtime/wrap.js:6:10), <anonymous>:34:23)
+    at template (eval at wrap (/Users/mac/Documents/koa2-test/node_modules/pug-runtime/wrap.js:6:10), <anonymous>:47:72)
+    at /Users/mac/Documents/koa2-test/node_modules/consolidate/lib/consolidate.js:809:16
+    at /Users/mac/Documents/koa2-test/node_modules/consolidate/lib/consolidate.js:144:5
+    at Promise._execute (/Users/mac/Documents/koa2-test/node_modules/bluebird/js/release/debuggability.js:303:9)
+    at Promise._resolveFromExecutor (/Users/mac/Documents/koa2-test/node_modules/bluebird/js/release/promise.js:483:18)
+    at new Promise (/Users/mac/Documents/koa2-test/node_modules/bluebird/js/release/promise.js:79:10)
+    at promisify (/Users/mac/Documents/koa2-test/node_modules/consolidate/lib/consolidate.js:137:10)
+    at exports.pug (/Users/mac/Documents/koa2-test/node_modules/consolidate/lib/consolidate.js:793:10)
+    at /Users/mac/Documents/koa2-test/node_modules/koa-views/lib/index.js:53:20
+    at <anonymous>
+*************** error log end ***************
+
+[2018-02-10T16:47:37.273] [ERROR] errorLogger - 
+*************** error log start ***************
+request method: GET
+request originalUrl:  /
+request client ip:  ::1
+request query:  {}
+response time: 418
+err name: TypeError
+err message: /Users/mac/Documents/koa2-test/views/index.pug:8
+    6|   ul
+    7|   if data
+  > 8|   -for(var i = 0 ;i<data.length;i++){
+    9|     li 
+    10|       a(href="users") #{data[i]}
+    11|   - }
+
+Cannot read property 'length' of undefined
+err stack: TypeError: /Users/mac/Documents/koa2-test/views/index.pug:8
+    6|   ul
+    7|   if data
+  > 8|   -for(var i = 0 ;i<data.length;i++){
+    9|     li 
+    10|       a(href="users") #{data[i]}
+    11|   - }
+
+Cannot read property 'length' of undefined
+    at eval (eval at wrap (/Users/mac/Documents/koa2-test/node_modules/pug-runtime/wrap.js:6:10), <anonymous>:34:23)
+    at template (eval at wrap (/Users/mac/Documents/koa2-test/node_modules/pug-runtime/wrap.js:6:10), <anonymous>:47:72)
+    at /Users/mac/Documents/koa2-test/node_modules/consolidate/lib/consolidate.js:809:16
+    at /Users/mac/Documents/koa2-test/node_modules/consolidate/lib/consolidate.js:144:5
+    at Promise._execute (/Users/mac/Documents/koa2-test/node_modules/bluebird/js/release/debuggability.js:303:9)
+    at Promise._resolveFromExecutor (/Users/mac/Documents/koa2-test/node_modules/bluebird/js/release/promise.js:483:18)
+    at new Promise (/Users/mac/Documents/koa2-test/node_modules/bluebird/js/release/promise.js:79:10)
+    at promisify (/Users/mac/Documents/koa2-test/node_modules/consolidate/lib/consolidate.js:137:10)
+    at exports.pug (/Users/mac/Documents/koa2-test/node_modules/consolidate/lib/consolidate.js:793:10)
+    at /Users/mac/Documents/koa2-test/node_modules/koa-views/lib/index.js:53:20
+    at <anonymous>
+*************** error log end ***************
+
+[2018-02-10T16:47:38.114] [ERROR] errorLogger - 
+*************** error log start ***************
+request method: GET
+request originalUrl:  /
+request client ip:  ::1
+request query:  {}
+response time: 22
+err name: TypeError
+err message: /Users/mac/Documents/koa2-test/views/index.pug:8
+    6|   ul
+    7|   if data
+  > 8|   -for(var i = 0 ;i<data.length;i++){
+    9|     li 
+    10|       a(href="users") #{data[i]}
+    11|   - }
+
+Cannot read property 'length' of undefined
+err stack: TypeError: /Users/mac/Documents/koa2-test/views/index.pug:8
+    6|   ul
+    7|   if data
+  > 8|   -for(var i = 0 ;i<data.length;i++){
+    9|     li 
+    10|       a(href="users") #{data[i]}
+    11|   - }
+
+Cannot read property 'length' of undefined
+    at eval (eval at wrap (/Users/mac/Documents/koa2-test/node_modules/pug-runtime/wrap.js:6:10), <anonymous>:34:23)
+    at template (eval at wrap (/Users/mac/Documents/koa2-test/node_modules/pug-runtime/wrap.js:6:10), <anonymous>:47:72)
+    at /Users/mac/Documents/koa2-test/node_modules/consolidate/lib/consolidate.js:809:16
+    at /Users/mac/Documents/koa2-test/node_modules/consolidate/lib/consolidate.js:144:5
+    at Promise._execute (/Users/mac/Documents/koa2-test/node_modules/bluebird/js/release/debuggability.js:303:9)
+    at Promise._resolveFromExecutor (/Users/mac/Documents/koa2-test/node_modules/bluebird/js/release/promise.js:483:18)
+    at new Promise (/Users/mac/Documents/koa2-test/node_modules/bluebird/js/release/promise.js:79:10)
+    at promisify (/Users/mac/Documents/koa2-test/node_modules/consolidate/lib/consolidate.js:137:10)
+    at exports.pug (/Users/mac/Documents/koa2-test/node_modules/consolidate/lib/consolidate.js:793:10)
+    at /Users/mac/Documents/koa2-test/node_modules/koa-views/lib/index.js:53:20
+    at <anonymous>
+*************** error log end ***************
+
+[2018-02-10T16:47:52.849] [INFO] resLogger - 
+*************** response log start ***************
+request method: GET
+request originalUrl:  /users
+request client ip:  ::1
+request query:  {}
+response time: 44
+response status: 200
+response body: 
+"<!DOCTYPE html><html><head><title></title><link rel=\"stylesheet\" href=\"/stylesheets/style.css\"></head><body><h1></h1><p>Welcome to </p><ul></ul><li> <a href=\"users\">{ pay: 1000,\n  meta: \n   { createAt: 2018-02-10T08:17:56.663Z,\n     updateAt: 2018-02-10T08:17:56.663Z },\n  _id: 5a7eaab490e77f9a8b79f2bf,\n  name: 'yuanlue',\n  tel: '18066537156',\n  __v: 0 }</a></li><li> <a href=\"users\">{ pay: 1000,\n  meta: \n   { createAt: 2018-02-10T08:18:14.854Z,\n     updateAt: 2018-02-10T08:18:14.854Z },\n  _id: 5a7eaac690e77f9a8b79f2c0,\n  name: 'yuanlue',\n  tel: '18066537156',\n  __v: 0 }</a></li></body></html>"
+*************** response log end ***************
+
+[2018-02-10T16:48:42.332] [INFO] resLogger - 
+*************** response log start ***************
+request method: GET
+request originalUrl:  /
+request client ip:  ::1
+request query:  {}
+response time: 395
+response status: 200
+response body: 
+"<!DOCTYPE html><html><head><title>Hello Koa 2!</title><link rel=\"stylesheet\" href=\"/stylesheets/style.css\"></head><body><h1>Hello Koa 2!</h1><p>Welcome to Hello Koa 2!</p><ul></ul></body></html>"
+*************** response log end ***************
+
+[2018-02-10T16:48:55.608] [INFO] resLogger - 
+*************** response log start ***************
+request method: GET
+request originalUrl:  /users
+request client ip:  ::1
+request query:  {}
+response time: 50
+response status: 200
+response body: 
+"<!DOCTYPE html><html><head><title></title><link rel=\"stylesheet\" href=\"/stylesheets/style.css\"></head><body><h1></h1><p>Welcome to </p><ul></ul><li> <a href=\"users\">{ pay: 1000,\n  meta: \n   { createAt: 2018-02-10T08:17:56.663Z,\n     updateAt: 2018-02-10T08:17:56.663Z },\n  _id: 5a7eaab490e77f9a8b79f2bf,\n  name: 'yuanlue',\n  tel: '18066537156',\n  __v: 0 }</a></li><li> <a href=\"users\">{ pay: 1000,\n  meta: \n   { createAt: 2018-02-10T08:18:14.854Z,\n     updateAt: 2018-02-10T08:18:14.854Z },\n  _id: 5a7eaac690e77f9a8b79f2c0,\n  name: 'yuanlue',\n  tel: '18066537156',\n  __v: 0 }</a></li></body></html>"
+*************** response log end ***************
+
+[2018-02-10T16:48:57.103] [INFO] resLogger - 
+*************** response log start ***************
+request method: GET
+request originalUrl:  /users
+request client ip:  ::1
+request query:  {}
+response time: 24
+response status: 200
+response body: 
+"<!DOCTYPE html><html><head><title></title><link rel=\"stylesheet\" href=\"/stylesheets/style.css\"></head><body><h1></h1><p>Welcome to </p><ul></ul><li> <a href=\"users\">{ pay: 1000,\n  meta: \n   { createAt: 2018-02-10T08:17:56.663Z,\n     updateAt: 2018-02-10T08:17:56.663Z },\n  _id: 5a7eaab490e77f9a8b79f2bf,\n  name: 'yuanlue',\n  tel: '18066537156',\n  __v: 0 }</a></li><li> <a href=\"users\">{ pay: 1000,\n  meta: \n   { createAt: 2018-02-10T08:18:14.854Z,\n     updateAt: 2018-02-10T08:18:14.854Z },\n  _id: 5a7eaac690e77f9a8b79f2c0,\n  name: 'yuanlue',\n  tel: '18066537156',\n  __v: 0 }</a></li></body></html>"
+*************** response log end ***************
+
+[2018-02-10T16:48:58.052] [INFO] resLogger - 
+*************** response log start ***************
+request method: GET
+request originalUrl:  /users
+request client ip:  ::1
+request query:  {}
+response time: 27
+response status: 200
+response body: 
+"<!DOCTYPE html><html><head><title></title><link rel=\"stylesheet\" href=\"/stylesheets/style.css\"></head><body><h1></h1><p>Welcome to </p><ul></ul><li> <a href=\"users\">{ pay: 1000,\n  meta: \n   { createAt: 2018-02-10T08:17:56.663Z,\n     updateAt: 2018-02-10T08:17:56.663Z },\n  _id: 5a7eaab490e77f9a8b79f2bf,\n  name: 'yuanlue',\n  tel: '18066537156',\n  __v: 0 }</a></li><li> <a href=\"users\">{ pay: 1000,\n  meta: \n   { createAt: 2018-02-10T08:18:14.854Z,\n     updateAt: 2018-02-10T08:18:14.854Z },\n  _id: 5a7eaac690e77f9a8b79f2c0,\n  name: 'yuanlue',\n  tel: '18066537156',\n  __v: 0 }</a></li></body></html>"
+*************** response log end ***************
+
+[2018-02-10T16:49:12.167] [INFO] resLogger - 
+*************** response log start ***************
+request method: GET
+request originalUrl:  /users
+request client ip:  ::1
+request query:  {}
+response time: 454
+response status: 200
+response body: 
+"<!DOCTYPE html><html><head><title></title><link rel=\"stylesheet\" href=\"/stylesheets/style.css\"></head><body><h1></h1><p>Welcome to </p><ul></ul><li> <a href=\"users/modify\">{ pay: 1000,\n  meta: \n   { createAt: 2018-02-10T08:17:56.663Z,\n     updateAt: 2018-02-10T08:17:56.663Z },\n  _id: 5a7eaab490e77f9a8b79f2bf,\n  name: 'yuanlue',\n  tel: '18066537156',\n  __v: 0 }</a></li><li> <a href=\"users/modify\">{ pay: 1000,\n  meta: \n   { createAt: 2018-02-10T08:18:14.854Z,\n     updateAt: 2018-02-10T08:18:14.854Z },\n  _id: 5a7eaac690e77f9a8b79f2c0,\n  name: 'yuanlue',\n  tel: '18066537156',\n  __v: 0 }</a></li></body></html>"
+*************** response log end ***************
+
+[2018-02-10T16:49:13.624] [INFO] resLogger - 
+*************** response log start ***************
+request method: GET
+request originalUrl:  /users/modify
+request client ip:  ::1
+request query:  {}
+response time: 0
+response status: 200
+response body: 
+"modify"
+*************** response log end ***************
+
+[2018-02-10T16:50:29.976] [INFO] resLogger - 
+*************** response log start ***************
+request method: GET
+request originalUrl:  /users/
+request client ip:  ::1
+request query:  {}
+response time: 416
+response status: 200
+response body: 
+"<!DOCTYPE html><html><head><title></title><link rel=\"stylesheet\" href=\"/stylesheets/style.css\"></head><body><h1></h1><p>Welcome to </p><ul></ul><li> <a href=\"users/modify?#{data[i]._id}\">{ pay: 1000,\n  meta: \n   { createAt: 2018-02-10T08:17:56.663Z,\n     updateAt: 2018-02-10T08:17:56.663Z },\n  _id: 5a7eaab490e77f9a8b79f2bf,\n  name: 'yuanlue',\n  tel: '18066537156',\n  __v: 0 }</a></li><li> <a href=\"users/modify?#{data[i]._id}\">{ pay: 1000,\n  meta: \n   { createAt: 2018-02-10T08:18:14.854Z,\n     updateAt: 2018-02-10T08:18:14.854Z },\n  _id: 5a7eaac690e77f9a8b79f2c0,\n  name: 'yuanlue',\n  tel: '18066537156',\n  __v: 0 }</a></li></body></html>"
+*************** response log end ***************
+
+[2018-02-10T16:50:30.853] [INFO] resLogger - 
+*************** response log start ***************
+request method: GET
+request originalUrl:  /users/users/modify?
+request client ip:  ::1
+request query:  {}
+response time: 0
+response status: 404
+response body: 
+undefined
+*************** response log end ***************
+
+[2018-02-10T16:51:10.647] [ERROR] errorLogger - 
+*************** error log start ***************
+request method: GET
+request originalUrl:  /
+request client ip:  ::1
+request query:  {}
+response time: 347
+err name: Error
+err message: /Users/mac/Documents/koa2-test/views/index.pug:10:32
+    8|   -for(var i = 0 ;i<data.length;i++){
+    9|     li 
+  > 10|       a(href="users/modify?id="#{data[i]._id}) #{data[i]}
+---------------------------------------^
+    11|   - }
+    12| 
+
+Syntax Error: Unexpected character '#'
+err stack: Error: /Users/mac/Documents/koa2-test/views/index.pug:10:32
+    8|   -for(var i = 0 ;i<data.length;i++){
+    9|     li 
+  > 10|       a(href="users/modify?id="#{data[i]._id}) #{data[i]}
+---------------------------------------^
+    11|   - }
+    12| 
+
+Syntax Error: Unexpected character '#'
+    at makeError (/Users/mac/Documents/koa2-test/node_modules/pug-error/index.js:32:13)
+    at Lexer.error (/Users/mac/Documents/koa2-test/node_modules/pug-lexer/index.js:58:15)
+    at Lexer.assertExpression (/Users/mac/Documents/koa2-test/node_modules/pug-lexer/index.js:86:12)
+    at Lexer.attrs (/Users/mac/Documents/koa2-test/node_modules/pug-lexer/index.js:1089:18)
+    at Lexer.callLexerFunction (/Users/mac/Documents/koa2-test/node_modules/pug-lexer/index.js:1319:23)
+    at Lexer.advance (/Users/mac/Documents/koa2-test/node_modules/pug-lexer/index.js:1356:15)
+    at Lexer.callLexerFunction (/Users/mac/Documents/koa2-test/node_modules/pug-lexer/index.js:1319:23)
+    at Lexer.getTokens (/Users/mac/Documents/koa2-test/node_modules/pug-lexer/index.js:1375:12)
+    at lex (/Users/mac/Documents/koa2-test/node_modules/pug-lexer/index.js:12:42)
+    at Object.lex (/Users/mac/Documents/koa2-test/node_modules/pug/lib/index.js:99:27)
+    at Function.loadString [as string] (/Users/mac/Documents/koa2-test/node_modules/pug-load/index.js:44:24)
+    at compileBody (/Users/mac/Documents/koa2-test/node_modules/pug/lib/index.js:86:18)
+    at Object.exports.compile (/Users/mac/Documents/koa2-test/node_modules/pug/lib/index.js:243:16)
+    at handleTemplateCache (/Users/mac/Documents/koa2-test/node_modules/pug/lib/index.js:216:25)
+    at Object.exports.compileFile (/Users/mac/Documents/koa2-test/node_modules/pug/lib/index.js:357:10)
+    at /Users/mac/Documents/koa2-test/node_modules/consolidate/lib/consolidate.js:808:58
+    at /Users/mac/Documents/koa2-test/node_modules/consolidate/lib/consolidate.js:144:5
+    at Promise._execute (/Users/mac/Documents/koa2-test/node_modules/bluebird/js/release/debuggability.js:303:9)
+    at Promise._resolveFromExecutor (/Users/mac/Documents/koa2-test/node_modules/bluebird/js/release/promise.js:483:18)
+    at new Promise (/Users/mac/Documents/koa2-test/node_modules/bluebird/js/release/promise.js:79:10)
+    at promisify (/Users/mac/Documents/koa2-test/node_modules/consolidate/lib/consolidate.js:137:10)
+    at exports.pug (/Users/mac/Documents/koa2-test/node_modules/consolidate/lib/consolidate.js:793:10)
+*************** error log end ***************
+
+[2018-02-10T16:51:13.618] [INFO] resLogger - 
+*************** response log start ***************
+request method: GET
+request originalUrl:  /users
+request client ip:  ::1
+request query:  {}
+response time: 25
+response status: 404
+response body: 
+undefined
+*************** response log end ***************
+
+[2018-02-10T16:51:52.790] [INFO] resLogger - 
+*************** response log start ***************
+request method: GET
+request originalUrl:  /users
+request client ip:  ::1
+request query:  {}
+response time: 438
+response status: 200
+response body: 
+"<!DOCTYPE html><html><head><title></title><link rel=\"stylesheet\" href=\"/stylesheets/style.css\"></head><body><h1></h1><p>Welcome to </p><ul></ul><li> <a href=\"users/modify?id=\" #{data[i]._id}>{ pay: 1000,\n  meta: \n   { createAt: 2018-02-10T08:17:56.663Z,\n     updateAt: 2018-02-10T08:17:56.663Z },\n  _id: 5a7eaab490e77f9a8b79f2bf,\n  name: 'yuanlue',\n  tel: '18066537156',\n  __v: 0 }</a></li><li> <a href=\"users/modify?id=\" #{data[i]._id}>{ pay: 1000,\n  meta: \n   { createAt: 2018-02-10T08:18:14.854Z,\n     updateAt: 2018-02-10T08:18:14.854Z },\n  _id: 5a7eaac690e77f9a8b79f2c0,\n  name: 'yuanlue',\n  tel: '18066537156',\n  __v: 0 }</a></li></body></html>"
+*************** response log end ***************
+
+[2018-02-10T16:51:54.715] [INFO] resLogger - 
+*************** response log start ***************
+request method: GET
+request originalUrl:  /users/modify?id=
+request client ip:  ::1
+request query:  {"id":""}
+response time: 1
+response status: 200
+response body: 
+"modify"
+*************** response log end ***************
+
+[2018-02-10T16:52:28.515] [INFO] resLogger - 
+*************** response log start ***************
+request method: GET
+request originalUrl:  /users
+request client ip:  ::1
+request query:  {}
+response time: 422
+response status: 200
+response body: 
+"<!DOCTYPE html><html><head><title></title><link rel=\"stylesheet\" href=\"/stylesheets/style.css\"></head><body><h1></h1><p>Welcome to </p><ul></ul><li> <a href=\"users/modify?id=#{data[i]._id}\">{ pay: 1000,\n  meta: \n   { createAt: 2018-02-10T08:17:56.663Z,\n     updateAt: 2018-02-10T08:17:56.663Z },\n  _id: 5a7eaab490e77f9a8b79f2bf,\n  name: 'yuanlue',\n  tel: '18066537156',\n  __v: 0 }</a></li><li> <a href=\"users/modify?id=#{data[i]._id}\">{ pay: 1000,\n  meta: \n   { createAt: 2018-02-10T08:18:14.854Z,\n     updateAt: 2018-02-10T08:18:14.854Z },\n  _id: 5a7eaac690e77f9a8b79f2c0,\n  name: 'yuanlue',\n  tel: '18066537156',\n  __v: 0 }</a></li></body></html>"
+*************** response log end ***************
+
+[2018-02-10T16:52:29.258] [INFO] resLogger - 
+*************** response log start ***************
+request method: GET
+request originalUrl:  /users/modify?id=
+request client ip:  ::1
+request query:  {"id":""}
+response time: 0
+response status: 200
+response body: 
+"modify"
+*************** response log end ***************
+
+[2018-02-10T16:54:25.840] [INFO] resLogger - 
+*************** response log start ***************
+request method: GET
+request originalUrl:  /
+request client ip:  ::1
+request query:  {}
+response time: 402
+response status: 200
+response body: 
+"<!DOCTYPE html><html><head><title>Hello Koa 2!</title><link rel=\"stylesheet\" href=\"/stylesheets/style.css\"></head><body><h1>Hello Koa 2!</h1><p>Welcome to Hello Koa 2!</p><ul></ul></body></html>"
+*************** response log end ***************
+
+[2018-02-10T16:54:28.331] [INFO] resLogger - 
+*************** response log start ***************
+request method: GET
+request originalUrl:  /users
+request client ip:  ::1
+request query:  {}
+response time: 48
+response status: 200
+response body: 
+"<!DOCTYPE html><html><head><title></title><link rel=\"stylesheet\" href=\"/stylesheets/style.css\"></head><body><h1></h1><p>Welcome to </p><ul></ul><li> <a href=\"users/modify?id=5a7eaab490e77f9a8b79f2bf\">{ pay: 1000,\n  meta: \n   { createAt: 2018-02-10T08:17:56.663Z,\n     updateAt: 2018-02-10T08:17:56.663Z },\n  _id: 5a7eaab490e77f9a8b79f2bf,\n  name: 'yuanlue',\n  tel: '18066537156',\n  __v: 0 }</a></li><li> <a href=\"users/modify?id=5a7eaac690e77f9a8b79f2c0\">{ pay: 1000,\n  meta: \n   { createAt: 2018-02-10T08:18:14.854Z,\n     updateAt: 2018-02-10T08:18:14.854Z },\n  _id: 5a7eaac690e77f9a8b79f2c0,\n  name: 'yuanlue',\n  tel: '18066537156',\n  __v: 0 }</a></li></body></html>"
+*************** response log end ***************
+
+[2018-02-10T16:54:29.149] [INFO] resLogger - 
+*************** response log start ***************
+request method: GET
+request originalUrl:  /users/modify?id=5a7eaab490e77f9a8b79f2bf
+request client ip:  ::1
+request query:  {"id":"5a7eaab490e77f9a8b79f2bf"}
+response time: 0
+response status: 200
+response body: 
+"modify"
+*************** response log end ***************
+
+[2018-02-10T16:54:51.841] [INFO] resLogger - 
+*************** response log start ***************
+request method: GET
+request originalUrl:  /users/modify?id=5a7eaab490e77f9a8b79f2bf
+request client ip:  ::1
+request query:  {"id":"5a7eaab490e77f9a8b79f2bf"}
+response time: 5
+response status: 200
+response body: 
+"modify"
+*************** response log end ***************
+
+[2018-02-10T16:55:17.483] [ERROR] errorLogger - 
+*************** error log start ***************
+request method: GET
+request originalUrl:  /users/modify?id=5a7eaab490e77f9a8b79f2bf
+request client ip:  ::1
+request query:  {"id":"5a7eaab490e77f9a8b79f2bf"}
+response time: 3
+err name: ReferenceError
+err message: cxt is not defined
+err stack: ReferenceError: cxt is not defined
+    at router.get (/Users/mac/Documents/koa2-test/routes/users.js:19:14)
+    at dispatch (/Users/mac/Documents/koa2-test/node_modules/koa-router/node_modules/koa-compose/index.js:44:32)
+    at next (/Users/mac/Documents/koa2-test/node_modules/koa-router/node_modules/koa-compose/index.js:45:18)
+    at /Users/mac/Documents/koa2-test/node_modules/koa-router/lib/router.js:346:16
+    at dispatch (/Users/mac/Documents/koa2-test/node_modules/koa-router/node_modules/koa-compose/index.js:44:32)
+    at /Users/mac/Documents/koa2-test/node_modules/koa-router/node_modules/koa-compose/index.js:36:12
+    at dispatch (/Users/mac/Documents/koa2-test/node_modules/koa-router/lib/router.js:351:31)
+    at dispatch (/Users/mac/Documents/koa2-test/node_modules/koa-compose/index.js:42:32)
+    at next (/Users/mac/Documents/koa2-test/node_modules/koa-compose/index.js:43:18)
+    at dispatch (/Users/mac/Documents/koa2-test/node_modules/koa-router/lib/router.js:332:32)
+    at dispatch (/Users/mac/Documents/koa2-test/node_modules/koa-compose/index.js:42:32)
+    at next (/Users/mac/Documents/koa2-test/node_modules/koa-compose/index.js:43:18)
+    at app.use (/Users/mac/Documents/koa2-test/app.js:40:11)
+    at dispatch (/Users/mac/Documents/koa2-test/node_modules/koa-compose/index.js:42:32)
+    at next (/Users/mac/Documents/koa2-test/node_modules/koa-compose/index.js:43:18)
+    at views (/Users/mac/Documents/koa2-test/node_modules/koa-views/lib/index.js:61:12)
+    at dispatch (/Users/mac/Documents/koa2-test/node_modules/koa-compose/index.js:42:32)
+    at next (/Users/mac/Documents/koa2-test/node_modules/koa-compose/index.js:43:18)
+    at send.then.done (/Users/mac/Documents/koa2-test/node_modules/koa-static/index.js:43:20)
+    at <anonymous>
+*************** error log end ***************
+
+[2018-02-10T16:55:20.572] [ERROR] errorLogger - 
+*************** error log start ***************
+request method: GET
+request originalUrl:  /users/modify?id=5a7eaab490e77f9a8b79f2bf
+request client ip:  ::1
+request query:  {"id":"5a7eaab490e77f9a8b79f2bf"}
+response time: 0
+err name: ReferenceError
+err message: cxt is not defined
+err stack: ReferenceError: cxt is not defined
+    at router.get (/Users/mac/Documents/koa2-test/routes/users.js:19:14)
+    at dispatch (/Users/mac/Documents/koa2-test/node_modules/koa-router/node_modules/koa-compose/index.js:44:32)
+    at next (/Users/mac/Documents/koa2-test/node_modules/koa-router/node_modules/koa-compose/index.js:45:18)
+    at /Users/mac/Documents/koa2-test/node_modules/koa-router/lib/router.js:346:16
+    at dispatch (/Users/mac/Documents/koa2-test/node_modules/koa-router/node_modules/koa-compose/index.js:44:32)
+    at /Users/mac/Documents/koa2-test/node_modules/koa-router/node_modules/koa-compose/index.js:36:12
+    at dispatch (/Users/mac/Documents/koa2-test/node_modules/koa-router/lib/router.js:351:31)
+    at dispatch (/Users/mac/Documents/koa2-test/node_modules/koa-compose/index.js:42:32)
+    at next (/Users/mac/Documents/koa2-test/node_modules/koa-compose/index.js:43:18)
+    at dispatch (/Users/mac/Documents/koa2-test/node_modules/koa-router/lib/router.js:332:32)
+    at dispatch (/Users/mac/Documents/koa2-test/node_modules/koa-compose/index.js:42:32)
+    at next (/Users/mac/Documents/koa2-test/node_modules/koa-compose/index.js:43:18)
+    at app.use (/Users/mac/Documents/koa2-test/app.js:40:11)
+    at dispatch (/Users/mac/Documents/koa2-test/node_modules/koa-compose/index.js:42:32)
+    at next (/Users/mac/Documents/koa2-test/node_modules/koa-compose/index.js:43:18)
+    at views (/Users/mac/Documents/koa2-test/node_modules/koa-views/lib/index.js:61:12)
+    at dispatch (/Users/mac/Documents/koa2-test/node_modules/koa-compose/index.js:42:32)
+    at next (/Users/mac/Documents/koa2-test/node_modules/koa-compose/index.js:43:18)
+    at send.then.done (/Users/mac/Documents/koa2-test/node_modules/koa-static/index.js:43:20)
+    at <anonymous>
+*************** error log end ***************
+
+[2018-02-10T16:55:48.715] [ERROR] errorLogger - 
+*************** error log start ***************
+request method: GET
+request originalUrl:  /users/modify?id=5a7eaab490e77f9a8b79f2bf
+request client ip:  ::1
+request query:  {"id":"5a7eaab490e77f9a8b79f2bf"}
+response time: 1
+err name: ReferenceError
+err message: cxt is not defined
+err stack: ReferenceError: cxt is not defined
+    at router.get (/Users/mac/Documents/koa2-test/routes/users.js:19:14)
+    at dispatch (/Users/mac/Documents/koa2-test/node_modules/koa-router/node_modules/koa-compose/index.js:44:32)
+    at next (/Users/mac/Documents/koa2-test/node_modules/koa-router/node_modules/koa-compose/index.js:45:18)
+    at /Users/mac/Documents/koa2-test/node_modules/koa-router/lib/router.js:346:16
+    at dispatch (/Users/mac/Documents/koa2-test/node_modules/koa-router/node_modules/koa-compose/index.js:44:32)
+    at /Users/mac/Documents/koa2-test/node_modules/koa-router/node_modules/koa-compose/index.js:36:12
+    at dispatch (/Users/mac/Documents/koa2-test/node_modules/koa-router/lib/router.js:351:31)
+    at dispatch (/Users/mac/Documents/koa2-test/node_modules/koa-compose/index.js:42:32)
+    at next (/Users/mac/Documents/koa2-test/node_modules/koa-compose/index.js:43:18)
+    at dispatch (/Users/mac/Documents/koa2-test/node_modules/koa-router/lib/router.js:332:32)
+    at dispatch (/Users/mac/Documents/koa2-test/node_modules/koa-compose/index.js:42:32)
+    at next (/Users/mac/Documents/koa2-test/node_modules/koa-compose/index.js:43:18)
+    at app.use (/Users/mac/Documents/koa2-test/app.js:40:11)
+    at dispatch (/Users/mac/Documents/koa2-test/node_modules/koa-compose/index.js:42:32)
+    at next (/Users/mac/Documents/koa2-test/node_modules/koa-compose/index.js:43:18)
+    at views (/Users/mac/Documents/koa2-test/node_modules/koa-views/lib/index.js:61:12)
+    at dispatch (/Users/mac/Documents/koa2-test/node_modules/koa-compose/index.js:42:32)
+    at next (/Users/mac/Documents/koa2-test/node_modules/koa-compose/index.js:43:18)
+    at send.then.done (/Users/mac/Documents/koa2-test/node_modules/koa-static/index.js:43:20)
+    at <anonymous>
+*************** error log end ***************
+
+[2018-02-10T16:56:09.382] [INFO] resLogger - 
+*************** response log start ***************
+request method: GET
+request originalUrl:  /users
+request client ip:  ::1
+request query:  {}
+response time: 615
+response status: 200
+response body: 
+"<!DOCTYPE html><html><head><title></title><link rel=\"stylesheet\" href=\"/stylesheets/style.css\"></head><body><h1></h1><p>Welcome to </p><ul></ul><li> <a href=\"users/modify?id=5a7eaab490e77f9a8b79f2bf\">{ pay: 1000,\n  meta: \n   { createAt: 2018-02-10T08:17:56.663Z,\n     updateAt: 2018-02-10T08:17:56.663Z },\n  _id: 5a7eaab490e77f9a8b79f2bf,\n  name: 'yuanlue',\n  tel: '18066537156',\n  __v: 0 }</a></li><li> <a href=\"users/modify?id=5a7eaac690e77f9a8b79f2c0\">{ pay: 1000,\n  meta: \n   { createAt: 2018-02-10T08:18:14.854Z,\n     updateAt: 2018-02-10T08:18:14.854Z },\n  _id: 5a7eaac690e77f9a8b79f2c0,\n  name: 'yuanlue',\n  tel: '18066537156',\n  __v: 0 }</a></li></body></html>"
+*************** response log end ***************
+
+[2018-02-10T16:56:10.507] [ERROR] errorLogger - 
+*************** error log start ***************
+request method: GET
+request originalUrl:  /users/modify?id=5a7eaab490e77f9a8b79f2bf
+request client ip:  ::1
+request query:  {"id":"5a7eaab490e77f9a8b79f2bf"}
+response time: 1
+err name: ReferenceError
+err message: cxt is not defined
+err stack: ReferenceError: cxt is not defined
+    at router.get (/Users/mac/Documents/koa2-test/routes/users.js:19:15)
+    at dispatch (/Users/mac/Documents/koa2-test/node_modules/koa-router/node_modules/koa-compose/index.js:44:32)
+    at next (/Users/mac/Documents/koa2-test/node_modules/koa-router/node_modules/koa-compose/index.js:45:18)
+    at /Users/mac/Documents/koa2-test/node_modules/koa-router/lib/router.js:346:16
+    at dispatch (/Users/mac/Documents/koa2-test/node_modules/koa-router/node_modules/koa-compose/index.js:44:32)
+    at /Users/mac/Documents/koa2-test/node_modules/koa-router/node_modules/koa-compose/index.js:36:12
+    at dispatch (/Users/mac/Documents/koa2-test/node_modules/koa-router/lib/router.js:351:31)
+    at dispatch (/Users/mac/Documents/koa2-test/node_modules/koa-compose/index.js:42:32)
+    at next (/Users/mac/Documents/koa2-test/node_modules/koa-compose/index.js:43:18)
+    at dispatch (/Users/mac/Documents/koa2-test/node_modules/koa-router/lib/router.js:332:32)
+    at dispatch (/Users/mac/Documents/koa2-test/node_modules/koa-compose/index.js:42:32)
+    at next (/Users/mac/Documents/koa2-test/node_modules/koa-compose/index.js:43:18)
+    at app.use (/Users/mac/Documents/koa2-test/app.js:40:11)
+    at dispatch (/Users/mac/Documents/koa2-test/node_modules/koa-compose/index.js:42:32)
+    at next (/Users/mac/Documents/koa2-test/node_modules/koa-compose/index.js:43:18)
+    at views (/Users/mac/Documents/koa2-test/node_modules/koa-views/lib/index.js:61:12)
+    at dispatch (/Users/mac/Documents/koa2-test/node_modules/koa-compose/index.js:42:32)
+    at next (/Users/mac/Documents/koa2-test/node_modules/koa-compose/index.js:43:18)
+    at send.then.done (/Users/mac/Documents/koa2-test/node_modules/koa-static/index.js:43:20)
+    at <anonymous>
+*************** error log end ***************
+
+[2018-02-10T16:56:33.478] [INFO] resLogger - 
+*************** response log start ***************
+request method: GET
+request originalUrl:  /users/modify?id=5a7eaab490e77f9a8b79f2bf
+request client ip:  ::1
+request query:  {"id":"5a7eaab490e77f9a8b79f2bf"}
+response time: 2
+response status: 200
+response body: 
+"modify"
+*************** response log end ***************
+
+[2018-02-10T16:56:34.770] [INFO] resLogger - 
+*************** response log start ***************
+request method: GET
+request originalUrl:  /users/modify?id=5a7eaab490e77f9a8b79f2bf
+request client ip:  ::1
+request query:  {"id":"5a7eaab490e77f9a8b79f2bf"}
+response time: 1
+response status: 200
+response body: 
+"modify"
+*************** response log end ***************
+
+[2018-02-10T16:57:00.039] [ERROR] errorLogger - 
+*************** error log start ***************
+request method: GET
+request originalUrl:  /users/modify?id=5a7eaab490e77f9a8b79f2bf
+request client ip:  ::1
+request query:  {"id":"5a7eaab490e77f9a8b79f2bf"}
+response time: 1
+err name: ReferenceError
+err message: consoe is not defined
+err stack: ReferenceError: consoe is not defined
+    at router.get (/Users/mac/Documents/koa2-test/routes/users.js:19:2)
+    at dispatch (/Users/mac/Documents/koa2-test/node_modules/koa-router/node_modules/koa-compose/index.js:44:32)
+    at next (/Users/mac/Documents/koa2-test/node_modules/koa-router/node_modules/koa-compose/index.js:45:18)
+    at /Users/mac/Documents/koa2-test/node_modules/koa-router/lib/router.js:346:16
+    at dispatch (/Users/mac/Documents/koa2-test/node_modules/koa-router/node_modules/koa-compose/index.js:44:32)
+    at /Users/mac/Documents/koa2-test/node_modules/koa-router/node_modules/koa-compose/index.js:36:12
+    at dispatch (/Users/mac/Documents/koa2-test/node_modules/koa-router/lib/router.js:351:31)
+    at dispatch (/Users/mac/Documents/koa2-test/node_modules/koa-compose/index.js:42:32)
+    at next (/Users/mac/Documents/koa2-test/node_modules/koa-compose/index.js:43:18)
+    at dispatch (/Users/mac/Documents/koa2-test/node_modules/koa-router/lib/router.js:332:32)
+    at dispatch (/Users/mac/Documents/koa2-test/node_modules/koa-compose/index.js:42:32)
+    at next (/Users/mac/Documents/koa2-test/node_modules/koa-compose/index.js:43:18)
+    at app.use (/Users/mac/Documents/koa2-test/app.js:40:11)
+    at dispatch (/Users/mac/Documents/koa2-test/node_modules/koa-compose/index.js:42:32)
+    at next (/Users/mac/Documents/koa2-test/node_modules/koa-compose/index.js:43:18)
+    at views (/Users/mac/Documents/koa2-test/node_modules/koa-views/lib/index.js:61:12)
+    at dispatch (/Users/mac/Documents/koa2-test/node_modules/koa-compose/index.js:42:32)
+    at next (/Users/mac/Documents/koa2-test/node_modules/koa-compose/index.js:43:18)
+    at send.then.done (/Users/mac/Documents/koa2-test/node_modules/koa-static/index.js:43:20)
+    at <anonymous>
+*************** error log end ***************
+
+[2018-02-10T16:57:56.611] [ERROR] errorLogger - 
+*************** error log start ***************
+request method: GET
+request originalUrl:  /users/modify?id=5a7eaab490e77f9a8b79f2bf
+request client ip:  ::1
+request query:  {"id":"5a7eaab490e77f9a8b79f2bf"}
+response time: 2
+err name: ReferenceError
+err message: consoe is not defined
+err stack: ReferenceError: consoe is not defined
+    at router.get (/Users/mac/Documents/koa2-test/routes/users.js:19:3)
+    at dispatch (/Users/mac/Documents/koa2-test/node_modules/koa-router/node_modules/koa-compose/index.js:44:32)
+    at next (/Users/mac/Documents/koa2-test/node_modules/koa-router/node_modules/koa-compose/index.js:45:18)
+    at /Users/mac/Documents/koa2-test/node_modules/koa-router/lib/router.js:346:16
+    at dispatch (/Users/mac/Documents/koa2-test/node_modules/koa-router/node_modules/koa-compose/index.js:44:32)
+    at /Users/mac/Documents/koa2-test/node_modules/koa-router/node_modules/koa-compose/index.js:36:12
+    at dispatch (/Users/mac/Documents/koa2-test/node_modules/koa-router/lib/router.js:351:31)
+    at dispatch (/Users/mac/Documents/koa2-test/node_modules/koa-compose/index.js:42:32)
+    at next (/Users/mac/Documents/koa2-test/node_modules/koa-compose/index.js:43:18)
+    at dispatch (/Users/mac/Documents/koa2-test/node_modules/koa-router/lib/router.js:332:32)
+    at dispatch (/Users/mac/Documents/koa2-test/node_modules/koa-compose/index.js:42:32)
+    at next (/Users/mac/Documents/koa2-test/node_modules/koa-compose/index.js:43:18)
+    at app.use (/Users/mac/Documents/koa2-test/app.js:40:11)
+    at dispatch (/Users/mac/Documents/koa2-test/node_modules/koa-compose/index.js:42:32)
+    at next (/Users/mac/Documents/koa2-test/node_modules/koa-compose/index.js:43:18)
+    at views (/Users/mac/Documents/koa2-test/node_modules/koa-views/lib/index.js:61:12)
+    at dispatch (/Users/mac/Documents/koa2-test/node_modules/koa-compose/index.js:42:32)
+    at next (/Users/mac/Documents/koa2-test/node_modules/koa-compose/index.js:43:18)
+    at send.then.done (/Users/mac/Documents/koa2-test/node_modules/koa-static/index.js:43:20)
+    at <anonymous>
+*************** error log end ***************
+
+[2018-02-10T16:57:58.380] [ERROR] errorLogger - 
+*************** error log start ***************
+request method: GET
+request originalUrl:  /users/modify?id=5a7eaab490e77f9a8b79f2bf
+request client ip:  ::1
+request query:  {"id":"5a7eaab490e77f9a8b79f2bf"}
+response time: 0
+err name: ReferenceError
+err message: consoe is not defined
+err stack: ReferenceError: consoe is not defined
+    at router.get (/Users/mac/Documents/koa2-test/routes/users.js:19:3)
+    at dispatch (/Users/mac/Documents/koa2-test/node_modules/koa-router/node_modules/koa-compose/index.js:44:32)
+    at next (/Users/mac/Documents/koa2-test/node_modules/koa-router/node_modules/koa-compose/index.js:45:18)
+    at /Users/mac/Documents/koa2-test/node_modules/koa-router/lib/router.js:346:16
+    at dispatch (/Users/mac/Documents/koa2-test/node_modules/koa-router/node_modules/koa-compose/index.js:44:32)
+    at /Users/mac/Documents/koa2-test/node_modules/koa-router/node_modules/koa-compose/index.js:36:12
+    at dispatch (/Users/mac/Documents/koa2-test/node_modules/koa-router/lib/router.js:351:31)
+    at dispatch (/Users/mac/Documents/koa2-test/node_modules/koa-compose/index.js:42:32)
+    at next (/Users/mac/Documents/koa2-test/node_modules/koa-compose/index.js:43:18)
+    at dispatch (/Users/mac/Documents/koa2-test/node_modules/koa-router/lib/router.js:332:32)
+    at dispatch (/Users/mac/Documents/koa2-test/node_modules/koa-compose/index.js:42:32)
+    at next (/Users/mac/Documents/koa2-test/node_modules/koa-compose/index.js:43:18)
+    at app.use (/Users/mac/Documents/koa2-test/app.js:40:11)
+    at dispatch (/Users/mac/Documents/koa2-test/node_modules/koa-compose/index.js:42:32)
+    at next (/Users/mac/Documents/koa2-test/node_modules/koa-compose/index.js:43:18)
+    at views (/Users/mac/Documents/koa2-test/node_modules/koa-views/lib/index.js:61:12)
+    at dispatch (/Users/mac/Documents/koa2-test/node_modules/koa-compose/index.js:42:32)
+    at next (/Users/mac/Documents/koa2-test/node_modules/koa-compose/index.js:43:18)
+    at send.then.done (/Users/mac/Documents/koa2-test/node_modules/koa-static/index.js:43:20)
+    at <anonymous>
+*************** error log end ***************
+
+[2018-02-10T16:58:12.350] [ERROR] errorLogger - 
+*************** error log start ***************
+request method: GET
+request originalUrl:  /users/modify
+request client ip:  ::1
+request query:  {}
+response time: 1
+err name: ReferenceError
+err message: consoe is not defined
+err stack: ReferenceError: consoe is not defined
+    at router.get (/Users/mac/Documents/koa2-test/routes/users.js:19:3)
+    at dispatch (/Users/mac/Documents/koa2-test/node_modules/koa-router/node_modules/koa-compose/index.js:44:32)
+    at next (/Users/mac/Documents/koa2-test/node_modules/koa-router/node_modules/koa-compose/index.js:45:18)
+    at /Users/mac/Documents/koa2-test/node_modules/koa-router/lib/router.js:346:16
+    at dispatch (/Users/mac/Documents/koa2-test/node_modules/koa-router/node_modules/koa-compose/index.js:44:32)
+    at /Users/mac/Documents/koa2-test/node_modules/koa-router/node_modules/koa-compose/index.js:36:12
+    at dispatch (/Users/mac/Documents/koa2-test/node_modules/koa-router/lib/router.js:351:31)
+    at dispatch (/Users/mac/Documents/koa2-test/node_modules/koa-compose/index.js:42:32)
+    at next (/Users/mac/Documents/koa2-test/node_modules/koa-compose/index.js:43:18)
+    at dispatch (/Users/mac/Documents/koa2-test/node_modules/koa-router/lib/router.js:332:32)
+    at dispatch (/Users/mac/Documents/koa2-test/node_modules/koa-compose/index.js:42:32)
+    at next (/Users/mac/Documents/koa2-test/node_modules/koa-compose/index.js:43:18)
+    at app.use (/Users/mac/Documents/koa2-test/app.js:40:11)
+    at dispatch (/Users/mac/Documents/koa2-test/node_modules/koa-compose/index.js:42:32)
+    at next (/Users/mac/Documents/koa2-test/node_modules/koa-compose/index.js:43:18)
+    at views (/Users/mac/Documents/koa2-test/node_modules/koa-views/lib/index.js:61:12)
+    at dispatch (/Users/mac/Documents/koa2-test/node_modules/koa-compose/index.js:42:32)
+    at next (/Users/mac/Documents/koa2-test/node_modules/koa-compose/index.js:43:18)
+    at send.then.done (/Users/mac/Documents/koa2-test/node_modules/koa-static/index.js:43:20)
+    at <anonymous>
+*************** error log end ***************
+
+[2018-02-10T16:58:14.947] [ERROR] errorLogger - 
+*************** error log start ***************
+request method: GET
+request originalUrl:  /users/modify
+request client ip:  ::1
+request query:  {}
+response time: 0
+err name: ReferenceError
+err message: consoe is not defined
+err stack: ReferenceError: consoe is not defined
+    at router.get (/Users/mac/Documents/koa2-test/routes/users.js:19:3)
+    at dispatch (/Users/mac/Documents/koa2-test/node_modules/koa-router/node_modules/koa-compose/index.js:44:32)
+    at next (/Users/mac/Documents/koa2-test/node_modules/koa-router/node_modules/koa-compose/index.js:45:18)
+    at /Users/mac/Documents/koa2-test/node_modules/koa-router/lib/router.js:346:16
+    at dispatch (/Users/mac/Documents/koa2-test/node_modules/koa-router/node_modules/koa-compose/index.js:44:32)
+    at /Users/mac/Documents/koa2-test/node_modules/koa-router/node_modules/koa-compose/index.js:36:12
+    at dispatch (/Users/mac/Documents/koa2-test/node_modules/koa-router/lib/router.js:351:31)
+    at dispatch (/Users/mac/Documents/koa2-test/node_modules/koa-compose/index.js:42:32)
+    at next (/Users/mac/Documents/koa2-test/node_modules/koa-compose/index.js:43:18)
+    at dispatch (/Users/mac/Documents/koa2-test/node_modules/koa-router/lib/router.js:332:32)
+    at dispatch (/Users/mac/Documents/koa2-test/node_modules/koa-compose/index.js:42:32)
+    at next (/Users/mac/Documents/koa2-test/node_modules/koa-compose/index.js:43:18)
+    at app.use (/Users/mac/Documents/koa2-test/app.js:40:11)
+    at dispatch (/Users/mac/Documents/koa2-test/node_modules/koa-compose/index.js:42:32)
+    at next (/Users/mac/Documents/koa2-test/node_modules/koa-compose/index.js:43:18)
+    at views (/Users/mac/Documents/koa2-test/node_modules/koa-views/lib/index.js:61:12)
+    at dispatch (/Users/mac/Documents/koa2-test/node_modules/koa-compose/index.js:42:32)
+    at next (/Users/mac/Documents/koa2-test/node_modules/koa-compose/index.js:43:18)
+    at send.then.done (/Users/mac/Documents/koa2-test/node_modules/koa-static/index.js:43:20)
+    at <anonymous>
+*************** error log end ***************
+
+[2018-02-10T16:58:41.815] [ERROR] errorLogger - 
+*************** error log start ***************
+request method: GET
+request originalUrl:  /users/modify
+request client ip:  ::1
+request query:  {}
+response time: 4
+err name: TypeError
+err message: console.lof is not a function
+err stack: TypeError: console.lof is not a function
+    at router.get (/Users/mac/Documents/koa2-test/routes/users.js:20:11)
+    at dispatch (/Users/mac/Documents/koa2-test/node_modules/koa-router/node_modules/koa-compose/index.js:44:32)
+    at next (/Users/mac/Documents/koa2-test/node_modules/koa-router/node_modules/koa-compose/index.js:45:18)
+    at /Users/mac/Documents/koa2-test/node_modules/koa-router/lib/router.js:346:16
+    at dispatch (/Users/mac/Documents/koa2-test/node_modules/koa-router/node_modules/koa-compose/index.js:44:32)
+    at /Users/mac/Documents/koa2-test/node_modules/koa-router/node_modules/koa-compose/index.js:36:12
+    at dispatch (/Users/mac/Documents/koa2-test/node_modules/koa-router/lib/router.js:351:31)
+    at dispatch (/Users/mac/Documents/koa2-test/node_modules/koa-compose/index.js:42:32)
+    at next (/Users/mac/Documents/koa2-test/node_modules/koa-compose/index.js:43:18)
+    at dispatch (/Users/mac/Documents/koa2-test/node_modules/koa-router/lib/router.js:332:32)
+    at dispatch (/Users/mac/Documents/koa2-test/node_modules/koa-compose/index.js:42:32)
+    at next (/Users/mac/Documents/koa2-test/node_modules/koa-compose/index.js:43:18)
+    at app.use (/Users/mac/Documents/koa2-test/app.js:40:11)
+    at dispatch (/Users/mac/Documents/koa2-test/node_modules/koa-compose/index.js:42:32)
+    at next (/Users/mac/Documents/koa2-test/node_modules/koa-compose/index.js:43:18)
+    at views (/Users/mac/Documents/koa2-test/node_modules/koa-views/lib/index.js:61:12)
+    at dispatch (/Users/mac/Documents/koa2-test/node_modules/koa-compose/index.js:42:32)
+    at next (/Users/mac/Documents/koa2-test/node_modules/koa-compose/index.js:43:18)
+    at send.then.done (/Users/mac/Documents/koa2-test/node_modules/koa-static/index.js:43:20)
+    at <anonymous>
+*************** error log end ***************
+
+[2018-02-10T16:59:42.753] [ERROR] errorLogger - 
+*************** error log start ***************
+request method: GET
+request originalUrl:  /users/modify?id=5a7eaab490e77f9a8b79f2bf
+request client ip:  ::1
+request query:  {"id":"5a7eaab490e77f9a8b79f2bf"}
+response time: 0
+err name: TypeError
+err message: console.lof is not a function
+err stack: TypeError: console.lof is not a function
+    at router.get (/Users/mac/Documents/koa2-test/routes/users.js:20:11)
+    at dispatch (/Users/mac/Documents/koa2-test/node_modules/koa-router/node_modules/koa-compose/index.js:44:32)
+    at next (/Users/mac/Documents/koa2-test/node_modules/koa-router/node_modules/koa-compose/index.js:45:18)
+    at /Users/mac/Documents/koa2-test/node_modules/koa-router/lib/router.js:346:16
+    at dispatch (/Users/mac/Documents/koa2-test/node_modules/koa-router/node_modules/koa-compose/index.js:44:32)
+    at /Users/mac/Documents/koa2-test/node_modules/koa-router/node_modules/koa-compose/index.js:36:12
+    at dispatch (/Users/mac/Documents/koa2-test/node_modules/koa-router/lib/router.js:351:31)
+    at dispatch (/Users/mac/Documents/koa2-test/node_modules/koa-compose/index.js:42:32)
+    at next (/Users/mac/Documents/koa2-test/node_modules/koa-compose/index.js:43:18)
+    at dispatch (/Users/mac/Documents/koa2-test/node_modules/koa-router/lib/router.js:332:32)
+    at dispatch (/Users/mac/Documents/koa2-test/node_modules/koa-compose/index.js:42:32)
+    at next (/Users/mac/Documents/koa2-test/node_modules/koa-compose/index.js:43:18)
+    at app.use (/Users/mac/Documents/koa2-test/app.js:40:11)
+    at dispatch (/Users/mac/Documents/koa2-test/node_modules/koa-compose/index.js:42:32)
+    at next (/Users/mac/Documents/koa2-test/node_modules/koa-compose/index.js:43:18)
+    at views (/Users/mac/Documents/koa2-test/node_modules/koa-views/lib/index.js:61:12)
+    at dispatch (/Users/mac/Documents/koa2-test/node_modules/koa-compose/index.js:42:32)
+    at next (/Users/mac/Documents/koa2-test/node_modules/koa-compose/index.js:43:18)
+    at send.then.done (/Users/mac/Documents/koa2-test/node_modules/koa-static/index.js:43:20)
+    at <anonymous>
+*************** error log end ***************
+
+[2018-02-10T16:59:59.845] [INFO] resLogger - 
+*************** response log start ***************
+request method: GET
+request originalUrl:  /users/modify?id=5a7eaab490e77f9a8b79f2bf
+request client ip:  ::1
+request query:  {"id":"5a7eaab490e77f9a8b79f2bf"}
+response time: 5
+response status: 200
+response body: 
+"modify"
+*************** response log end ***************
+

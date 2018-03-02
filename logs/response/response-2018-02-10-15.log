@@ -1,0 +1,646 @@
+[2018-02-10T15:00:05.293] [ERROR] errorLogger - 
+*************** error log start ***************
+request method: GET
+request originalUrl:  /
+request client ip:  ::1
+request query:  {}
+response time: 4
+err name: TypeError
+err message: this.find is not a function
+err stack: TypeError: this.find is not a function
+    at Promise (/Users/mac/Documents/koa2-test/schema/vistor.js:33:17)
+    at new Promise (<anonymous>)
+    at Function.fetch (/Users/mac/Documents/koa2-test/schema/vistor.js:32:10)
+    at router.get (/Users/mac/Documents/koa2-test/routes/index.js:4:24)
+    at dispatch (/Users/mac/Documents/koa2-test/node_modules/koa-router/node_modules/koa-compose/index.js:44:32)
+    at next (/Users/mac/Documents/koa2-test/node_modules/koa-router/node_modules/koa-compose/index.js:45:18)
+    at /Users/mac/Documents/koa2-test/node_modules/koa-router/lib/router.js:346:16
+    at dispatch (/Users/mac/Documents/koa2-test/node_modules/koa-router/node_modules/koa-compose/index.js:44:32)
+    at /Users/mac/Documents/koa2-test/node_modules/koa-router/node_modules/koa-compose/index.js:36:12
+    at dispatch (/Users/mac/Documents/koa2-test/node_modules/koa-router/lib/router.js:351:31)
+    at dispatch (/Users/mac/Documents/koa2-test/node_modules/koa-compose/index.js:42:32)
+    at next (/Users/mac/Documents/koa2-test/node_modules/koa-compose/index.js:43:18)
+    at app.use (/Users/mac/Documents/koa2-test/app.js:40:11)
+    at dispatch (/Users/mac/Documents/koa2-test/node_modules/koa-compose/index.js:42:32)
+    at next (/Users/mac/Documents/koa2-test/node_modules/koa-compose/index.js:43:18)
+    at views (/Users/mac/Documents/koa2-test/node_modules/koa-views/lib/index.js:61:12)
+    at dispatch (/Users/mac/Documents/koa2-test/node_modules/koa-compose/index.js:42:32)
+    at next (/Users/mac/Documents/koa2-test/node_modules/koa-compose/index.js:43:18)
+    at send.then.done (/Users/mac/Documents/koa2-test/node_modules/koa-static/index.js:43:20)
+    at <anonymous>
+*************** error log end ***************
+
+[2018-02-10T15:00:13.317] [INFO] resLogger - 
+*************** response log start ***************
+request method: GET
+request originalUrl:  /user
+request client ip:  ::1
+request query:  {}
+response time: 0
+response status: 404
+response body: 
+undefined
+*************** response log end ***************
+
+[2018-02-10T15:00:15.498] [ERROR] errorLogger - 
+*************** error log start ***************
+request method: GET
+request originalUrl:  /
+request client ip:  ::1
+request query:  {}
+response time: 1
+err name: TypeError
+err message: this.find is not a function
+err stack: TypeError: this.find is not a function
+    at Promise (/Users/mac/Documents/koa2-test/schema/vistor.js:33:17)
+    at new Promise (<anonymous>)
+    at Function.fetch (/Users/mac/Documents/koa2-test/schema/vistor.js:32:10)
+    at router.get (/Users/mac/Documents/koa2-test/routes/index.js:4:24)
+    at dispatch (/Users/mac/Documents/koa2-test/node_modules/koa-router/node_modules/koa-compose/index.js:44:32)
+    at next (/Users/mac/Documents/koa2-test/node_modules/koa-router/node_modules/koa-compose/index.js:45:18)
+    at /Users/mac/Documents/koa2-test/node_modules/koa-router/lib/router.js:346:16
+    at dispatch (/Users/mac/Documents/koa2-test/node_modules/koa-router/node_modules/koa-compose/index.js:44:32)
+    at /Users/mac/Documents/koa2-test/node_modules/koa-router/node_modules/koa-compose/index.js:36:12
+    at dispatch (/Users/mac/Documents/koa2-test/node_modules/koa-router/lib/router.js:351:31)
+    at dispatch (/Users/mac/Documents/koa2-test/node_modules/koa-compose/index.js:42:32)
+    at next (/Users/mac/Documents/koa2-test/node_modules/koa-compose/index.js:43:18)
+    at app.use (/Users/mac/Documents/koa2-test/app.js:40:11)
+    at dispatch (/Users/mac/Documents/koa2-test/node_modules/koa-compose/index.js:42:32)
+    at next (/Users/mac/Documents/koa2-test/node_modules/koa-compose/index.js:43:18)
+    at views (/Users/mac/Documents/koa2-test/node_modules/koa-views/lib/index.js:61:12)
+    at dispatch (/Users/mac/Documents/koa2-test/node_modules/koa-compose/index.js:42:32)
+    at next (/Users/mac/Documents/koa2-test/node_modules/koa-compose/index.js:43:18)
+    at send.then.done (/Users/mac/Documents/koa2-test/node_modules/koa-static/index.js:43:20)
+    at <anonymous>
+*************** error log end ***************
+
+[2018-02-10T15:00:38.894] [ERROR] errorLogger - 
+*************** error log start ***************
+request method: GET
+request originalUrl:  /
+request client ip:  ::1
+request query:  {}
+response time: 1
+err name: TypeError
+err message: this.find is not a function
+err stack: TypeError: this.find is not a function
+    at Promise (/Users/mac/Documents/koa2-test/schema/vistor.js:33:17)
+    at new Promise (<anonymous>)
+    at Function.fetch (/Users/mac/Documents/koa2-test/schema/vistor.js:32:10)
+    at router.get (/Users/mac/Documents/koa2-test/routes/index.js:4:24)
+    at dispatch (/Users/mac/Documents/koa2-test/node_modules/koa-router/node_modules/koa-compose/index.js:44:32)
+    at next (/Users/mac/Documents/koa2-test/node_modules/koa-router/node_modules/koa-compose/index.js:45:18)
+    at /Users/mac/Documents/koa2-test/node_modules/koa-router/lib/router.js:346:16
+    at dispatch (/Users/mac/Documents/koa2-test/node_modules/koa-router/node_modules/koa-compose/index.js:44:32)
+    at /Users/mac/Documents/koa2-test/node_modules/koa-router/node_modules/koa-compose/index.js:36:12
+    at dispatch (/Users/mac/Documents/koa2-test/node_modules/koa-router/lib/router.js:351:31)
+    at dispatch (/Users/mac/Documents/koa2-test/node_modules/koa-compose/index.js:42:32)
+    at next (/Users/mac/Documents/koa2-test/node_modules/koa-compose/index.js:43:18)
+    at app.use (/Users/mac/Documents/koa2-test/app.js:40:11)
+    at dispatch (/Users/mac/Documents/koa2-test/node_modules/koa-compose/index.js:42:32)
+    at next (/Users/mac/Documents/koa2-test/node_modules/koa-compose/index.js:43:18)
+    at views (/Users/mac/Documents/koa2-test/node_modules/koa-views/lib/index.js:61:12)
+    at dispatch (/Users/mac/Documents/koa2-test/node_modules/koa-compose/index.js:42:32)
+    at next (/Users/mac/Documents/koa2-test/node_modules/koa-compose/index.js:43:18)
+    at send.then.done (/Users/mac/Documents/koa2-test/node_modules/koa-static/index.js:43:20)
+    at <anonymous>
+*************** error log end ***************
+
+[2018-02-10T15:01:33.271] [ERROR] errorLogger - 
+*************** error log start ***************
+request method: GET
+request originalUrl:  /
+request client ip:  ::1
+request query:  {}
+response time: 0
+err name: TypeError
+err message: this.find is not a function
+err stack: TypeError: this.find is not a function
+    at Promise (/Users/mac/Documents/koa2-test/schema/vistor.js:33:17)
+    at new Promise (<anonymous>)
+    at Function.fetch (/Users/mac/Documents/koa2-test/schema/vistor.js:32:10)
+    at router.get (/Users/mac/Documents/koa2-test/routes/index.js:4:24)
+    at dispatch (/Users/mac/Documents/koa2-test/node_modules/koa-router/node_modules/koa-compose/index.js:44:32)
+    at next (/Users/mac/Documents/koa2-test/node_modules/koa-router/node_modules/koa-compose/index.js:45:18)
+    at /Users/mac/Documents/koa2-test/node_modules/koa-router/lib/router.js:346:16
+    at dispatch (/Users/mac/Documents/koa2-test/node_modules/koa-router/node_modules/koa-compose/index.js:44:32)
+    at /Users/mac/Documents/koa2-test/node_modules/koa-router/node_modules/koa-compose/index.js:36:12
+    at dispatch (/Users/mac/Documents/koa2-test/node_modules/koa-router/lib/router.js:351:31)
+    at dispatch (/Users/mac/Documents/koa2-test/node_modules/koa-compose/index.js:42:32)
+    at next (/Users/mac/Documents/koa2-test/node_modules/koa-compose/index.js:43:18)
+    at app.use (/Users/mac/Documents/koa2-test/app.js:40:11)
+    at dispatch (/Users/mac/Documents/koa2-test/node_modules/koa-compose/index.js:42:32)
+    at next (/Users/mac/Documents/koa2-test/node_modules/koa-compose/index.js:43:18)
+    at views (/Users/mac/Documents/koa2-test/node_modules/koa-views/lib/index.js:61:12)
+    at dispatch (/Users/mac/Documents/koa2-test/node_modules/koa-compose/index.js:42:32)
+    at next (/Users/mac/Documents/koa2-test/node_modules/koa-compose/index.js:43:18)
+    at send.then.done (/Users/mac/Documents/koa2-test/node_modules/koa-static/index.js:43:20)
+    at <anonymous>
+*************** error log end ***************
+
+[2018-02-10T15:02:08.808] [ERROR] errorLogger - 
+*************** error log start ***************
+request method: GET
+request originalUrl:  /
+request client ip:  ::1
+request query:  {}
+response time: 0
+err name: TypeError
+err message: this.find is not a function
+err stack: TypeError: this.find is not a function
+    at Promise (/Users/mac/Documents/koa2-test/schema/vistor.js:33:17)
+    at new Promise (<anonymous>)
+    at Function.fetch (/Users/mac/Documents/koa2-test/schema/vistor.js:32:10)
+    at router.get (/Users/mac/Documents/koa2-test/routes/index.js:4:24)
+    at dispatch (/Users/mac/Documents/koa2-test/node_modules/koa-router/node_modules/koa-compose/index.js:44:32)
+    at next (/Users/mac/Documents/koa2-test/node_modules/koa-router/node_modules/koa-compose/index.js:45:18)
+    at /Users/mac/Documents/koa2-test/node_modules/koa-router/lib/router.js:346:16
+    at dispatch (/Users/mac/Documents/koa2-test/node_modules/koa-router/node_modules/koa-compose/index.js:44:32)
+    at /Users/mac/Documents/koa2-test/node_modules/koa-router/node_modules/koa-compose/index.js:36:12
+    at dispatch (/Users/mac/Documents/koa2-test/node_modules/koa-router/lib/router.js:351:31)
+    at dispatch (/Users/mac/Documents/koa2-test/node_modules/koa-compose/index.js:42:32)
+    at next (/Users/mac/Documents/koa2-test/node_modules/koa-compose/index.js:43:18)
+    at app.use (/Users/mac/Documents/koa2-test/app.js:40:11)
+    at dispatch (/Users/mac/Documents/koa2-test/node_modules/koa-compose/index.js:42:32)
+    at next (/Users/mac/Documents/koa2-test/node_modules/koa-compose/index.js:43:18)
+    at views (/Users/mac/Documents/koa2-test/node_modules/koa-views/lib/index.js:61:12)
+    at dispatch (/Users/mac/Documents/koa2-test/node_modules/koa-compose/index.js:42:32)
+    at next (/Users/mac/Documents/koa2-test/node_modules/koa-compose/index.js:43:18)
+    at send.then.done (/Users/mac/Documents/koa2-test/node_modules/koa-static/index.js:43:20)
+    at <anonymous>
+*************** error log end ***************
+
+[2018-02-10T15:02:14.395] [INFO] resLogger - 
+*************** response log start ***************
+request method: GET
+request originalUrl:  /
+request client ip:  ::1
+request query:  {}
+response time: 676
+response status: 200
+response body: 
+"<!DOCTYPE html><html><head><title>Hello Koa 2!</title><link rel=\"stylesheet\" href=\"/stylesheets/style.css\"></head><body><h1>Hello Koa 2!</h1><p>Welcome to Hello Koa 2!</p></body></html>"
+*************** response log end ***************
+
+[2018-02-10T15:04:53.723] [INFO] resLogger - 
+*************** response log start ***************
+request method: GET
+request originalUrl:  /users
+request client ip:  ::1
+request query:  {}
+response time: 2
+response status: 200
+response body: 
+"this is a users response!"
+*************** response log end ***************
+
+[2018-02-10T15:05:28.121] [INFO] resLogger - 
+*************** response log start ***************
+request method: GET
+request originalUrl:  /users
+request client ip:  ::1
+request query:  {}
+response time: 2
+response status: 200
+response body: 
+"this is a users response!"
+*************** response log end ***************
+
+[2018-02-10T15:07:20.458] [ERROR] errorLogger - 
+*************** error log start ***************
+request method: GET
+request originalUrl:  /users
+request client ip:  ::1
+request query:  {}
+response time: 3
+err name: TypeError
+err message: this.find is not a function
+err stack: TypeError: this.find is not a function
+    at Promise (/Users/mac/Documents/koa2-test/schema/vistor.js:33:17)
+    at new Promise (<anonymous>)
+    at Function.fetch (/Users/mac/Documents/koa2-test/schema/vistor.js:32:10)
+    at router.get (/Users/mac/Documents/koa2-test/routes/users.js:7:24)
+    at dispatch (/Users/mac/Documents/koa2-test/node_modules/koa-router/node_modules/koa-compose/index.js:44:32)
+    at next (/Users/mac/Documents/koa2-test/node_modules/koa-router/node_modules/koa-compose/index.js:45:18)
+    at /Users/mac/Documents/koa2-test/node_modules/koa-router/lib/router.js:346:16
+    at dispatch (/Users/mac/Documents/koa2-test/node_modules/koa-router/node_modules/koa-compose/index.js:44:32)
+    at /Users/mac/Documents/koa2-test/node_modules/koa-router/node_modules/koa-compose/index.js:36:12
+    at dispatch (/Users/mac/Documents/koa2-test/node_modules/koa-router/lib/router.js:351:31)
+    at dispatch (/Users/mac/Documents/koa2-test/node_modules/koa-compose/index.js:42:32)
+    at next (/Users/mac/Documents/koa2-test/node_modules/koa-compose/index.js:43:18)
+    at dispatch (/Users/mac/Documents/koa2-test/node_modules/koa-router/lib/router.js:332:32)
+    at dispatch (/Users/mac/Documents/koa2-test/node_modules/koa-compose/index.js:42:32)
+    at next (/Users/mac/Documents/koa2-test/node_modules/koa-compose/index.js:43:18)
+    at app.use (/Users/mac/Documents/koa2-test/app.js:40:11)
+    at dispatch (/Users/mac/Documents/koa2-test/node_modules/koa-compose/index.js:42:32)
+    at next (/Users/mac/Documents/koa2-test/node_modules/koa-compose/index.js:43:18)
+    at views (/Users/mac/Documents/koa2-test/node_modules/koa-views/lib/index.js:61:12)
+    at dispatch (/Users/mac/Documents/koa2-test/node_modules/koa-compose/index.js:42:32)
+    at next (/Users/mac/Documents/koa2-test/node_modules/koa-compose/index.js:43:18)
+    at send.then.done (/Users/mac/Documents/koa2-test/node_modules/koa-static/index.js:43:20)
+*************** error log end ***************
+
+[2018-02-10T15:08:09.050] [ERROR] errorLogger - 
+*************** error log start ***************
+request method: GET
+request originalUrl:  /users
+request client ip:  ::1
+request query:  {}
+response time: 0
+err name: TypeError
+err message: this.find is not a function
+err stack: TypeError: this.find is not a function
+    at Promise (/Users/mac/Documents/koa2-test/schema/vistor.js:33:17)
+    at new Promise (<anonymous>)
+    at Function.fetch (/Users/mac/Documents/koa2-test/schema/vistor.js:32:10)
+    at router.get (/Users/mac/Documents/koa2-test/routes/users.js:7:24)
+    at dispatch (/Users/mac/Documents/koa2-test/node_modules/koa-router/node_modules/koa-compose/index.js:44:32)
+    at next (/Users/mac/Documents/koa2-test/node_modules/koa-router/node_modules/koa-compose/index.js:45:18)
+    at /Users/mac/Documents/koa2-test/node_modules/koa-router/lib/router.js:346:16
+    at dispatch (/Users/mac/Documents/koa2-test/node_modules/koa-router/node_modules/koa-compose/index.js:44:32)
+    at /Users/mac/Documents/koa2-test/node_modules/koa-router/node_modules/koa-compose/index.js:36:12
+    at dispatch (/Users/mac/Documents/koa2-test/node_modules/koa-router/lib/router.js:351:31)
+    at dispatch (/Users/mac/Documents/koa2-test/node_modules/koa-compose/index.js:42:32)
+    at next (/Users/mac/Documents/koa2-test/node_modules/koa-compose/index.js:43:18)
+    at dispatch (/Users/mac/Documents/koa2-test/node_modules/koa-router/lib/router.js:332:32)
+    at dispatch (/Users/mac/Documents/koa2-test/node_modules/koa-compose/index.js:42:32)
+    at next (/Users/mac/Documents/koa2-test/node_modules/koa-compose/index.js:43:18)
+    at app.use (/Users/mac/Documents/koa2-test/app.js:40:11)
+    at dispatch (/Users/mac/Documents/koa2-test/node_modules/koa-compose/index.js:42:32)
+    at next (/Users/mac/Documents/koa2-test/node_modules/koa-compose/index.js:43:18)
+    at views (/Users/mac/Documents/koa2-test/node_modules/koa-views/lib/index.js:61:12)
+    at dispatch (/Users/mac/Documents/koa2-test/node_modules/koa-compose/index.js:42:32)
+    at next (/Users/mac/Documents/koa2-test/node_modules/koa-compose/index.js:43:18)
+    at send.then.done (/Users/mac/Documents/koa2-test/node_modules/koa-static/index.js:43:20)
+*************** error log end ***************
+
+[2018-02-10T15:08:50.129] [ERROR] errorLogger - 
+*************** error log start ***************
+request method: GET
+request originalUrl:  /users
+request client ip:  ::1
+request query:  {}
+response time: 1
+err name: TypeError
+err message: this.find is not a function
+err stack: TypeError: this.find is not a function
+    at Promise (/Users/mac/Documents/koa2-test/schema/vistor.js:33:17)
+    at new Promise (<anonymous>)
+    at Function.fetch (/Users/mac/Documents/koa2-test/schema/vistor.js:32:10)
+    at router.get (/Users/mac/Documents/koa2-test/routes/users.js:7:24)
+    at dispatch (/Users/mac/Documents/koa2-test/node_modules/koa-router/node_modules/koa-compose/index.js:44:32)
+    at next (/Users/mac/Documents/koa2-test/node_modules/koa-router/node_modules/koa-compose/index.js:45:18)
+    at /Users/mac/Documents/koa2-test/node_modules/koa-router/lib/router.js:346:16
+    at dispatch (/Users/mac/Documents/koa2-test/node_modules/koa-router/node_modules/koa-compose/index.js:44:32)
+    at /Users/mac/Documents/koa2-test/node_modules/koa-router/node_modules/koa-compose/index.js:36:12
+    at dispatch (/Users/mac/Documents/koa2-test/node_modules/koa-router/lib/router.js:351:31)
+    at dispatch (/Users/mac/Documents/koa2-test/node_modules/koa-compose/index.js:42:32)
+    at next (/Users/mac/Documents/koa2-test/node_modules/koa-compose/index.js:43:18)
+    at dispatch (/Users/mac/Documents/koa2-test/node_modules/koa-router/lib/router.js:332:32)
+    at dispatch (/Users/mac/Documents/koa2-test/node_modules/koa-compose/index.js:42:32)
+    at next (/Users/mac/Documents/koa2-test/node_modules/koa-compose/index.js:43:18)
+    at app.use (/Users/mac/Documents/koa2-test/app.js:40:11)
+    at dispatch (/Users/mac/Documents/koa2-test/node_modules/koa-compose/index.js:42:32)
+    at next (/Users/mac/Documents/koa2-test/node_modules/koa-compose/index.js:43:18)
+    at views (/Users/mac/Documents/koa2-test/node_modules/koa-views/lib/index.js:61:12)
+    at dispatch (/Users/mac/Documents/koa2-test/node_modules/koa-compose/index.js:42:32)
+    at next (/Users/mac/Documents/koa2-test/node_modules/koa-compose/index.js:43:18)
+    at send.then.done (/Users/mac/Documents/koa2-test/node_modules/koa-static/index.js:43:20)
+*************** error log end ***************
+
+[2018-02-10T15:10:10.914] [ERROR] errorLogger - 
+*************** error log start ***************
+request method: GET
+request originalUrl:  /users
+request client ip:  ::1
+request query:  {}
+response time: 0
+err name: TypeError
+err message: this.find is not a function
+err stack: TypeError: this.find is not a function
+    at Promise (/Users/mac/Documents/koa2-test/schema/vistor.js:33:17)
+    at new Promise (<anonymous>)
+    at Function.fetch (/Users/mac/Documents/koa2-test/schema/vistor.js:32:10)
+    at router.get (/Users/mac/Documents/koa2-test/routes/users.js:7:24)
+    at dispatch (/Users/mac/Documents/koa2-test/node_modules/koa-router/node_modules/koa-compose/index.js:44:32)
+    at next (/Users/mac/Documents/koa2-test/node_modules/koa-router/node_modules/koa-compose/index.js:45:18)
+    at /Users/mac/Documents/koa2-test/node_modules/koa-router/lib/router.js:346:16
+    at dispatch (/Users/mac/Documents/koa2-test/node_modules/koa-router/node_modules/koa-compose/index.js:44:32)
+    at /Users/mac/Documents/koa2-test/node_modules/koa-router/node_modules/koa-compose/index.js:36:12
+    at dispatch (/Users/mac/Documents/koa2-test/node_modules/koa-router/lib/router.js:351:31)
+    at dispatch (/Users/mac/Documents/koa2-test/node_modules/koa-compose/index.js:42:32)
+    at next (/Users/mac/Documents/koa2-test/node_modules/koa-compose/index.js:43:18)
+    at dispatch (/Users/mac/Documents/koa2-test/node_modules/koa-router/lib/router.js:332:32)
+    at dispatch (/Users/mac/Documents/koa2-test/node_modules/koa-compose/index.js:42:32)
+    at next (/Users/mac/Documents/koa2-test/node_modules/koa-compose/index.js:43:18)
+    at app.use (/Users/mac/Documents/koa2-test/app.js:40:11)
+    at dispatch (/Users/mac/Documents/koa2-test/node_modules/koa-compose/index.js:42:32)
+    at next (/Users/mac/Documents/koa2-test/node_modules/koa-compose/index.js:43:18)
+    at views (/Users/mac/Documents/koa2-test/node_modules/koa-views/lib/index.js:61:12)
+    at dispatch (/Users/mac/Documents/koa2-test/node_modules/koa-compose/index.js:42:32)
+    at next (/Users/mac/Documents/koa2-test/node_modules/koa-compose/index.js:43:18)
+    at send.then.done (/Users/mac/Documents/koa2-test/node_modules/koa-static/index.js:43:20)
+*************** error log end ***************
+
+[2018-02-10T15:11:12.215] [INFO] resLogger - 
+*************** response log start ***************
+request method: GET
+request originalUrl:  /users
+request client ip:  ::1
+request query:  {}
+response time: 13
+response status: 200
+response body: 
+"this is a users response!"
+*************** response log end ***************
+
+[2018-02-10T15:26:01.976] [INFO] resLogger - 
+*************** response log start ***************
+request method: GET
+request originalUrl:  /users
+request client ip:  ::1
+request query:  {}
+response time: 15
+response status: 200
+response body: 
+"this is a users response!"
+*************** response log end ***************
+
+[2018-02-10T15:26:37.310] [ERROR] errorLogger - 
+*************** error log start ***************
+request method: GET
+request originalUrl:  /users
+request client ip:  ::1
+request query:  {}
+response time: 12
+err name: ReferenceError
+err message: error is not defined
+err stack: ReferenceError: error is not defined
+    at router.get (/Users/mac/Documents/koa2-test/routes/users.js:9:3)
+    at <anonymous>
+    at process._tickCallback (internal/process/next_tick.js:160:7)
+*************** error log end ***************
+
+[2018-02-10T15:26:54.836] [ERROR] errorLogger - 
+*************** error log start ***************
+request method: GET
+request originalUrl:  /users
+request client ip:  ::1
+request query:  {}
+response time: 10
+err name: ReferenceError
+err message: error is not defined
+err stack: ReferenceError: error is not defined
+    at router.get (/Users/mac/Documents/koa2-test/routes/users.js:9:3)
+    at <anonymous>
+    at process._tickCallback (internal/process/next_tick.js:160:7)
+*************** error log end ***************
+
+[2018-02-10T15:26:58.876] [ERROR] errorLogger - 
+*************** error log start ***************
+request method: GET
+request originalUrl:  /users
+request client ip:  ::1
+request query:  {}
+response time: 1
+err name: ReferenceError
+err message: error is not defined
+err stack: ReferenceError: error is not defined
+    at router.get (/Users/mac/Documents/koa2-test/routes/users.js:9:3)
+    at <anonymous>
+    at process._tickCallback (internal/process/next_tick.js:160:7)
+*************** error log end ***************
+
+[2018-02-10T15:27:16.519] [INFO] resLogger - 
+*************** response log start ***************
+request method: GET
+request originalUrl:  /users
+request client ip:  ::1
+request query:  {}
+response time: 14
+response status: 200
+response body: 
+"this is a users response!"
+*************** response log end ***************
+
+[2018-02-10T15:34:52.524] [ERROR] errorLogger - 
+*************** error log start ***************
+request method: GET
+request originalUrl:  /users
+request client ip:  ::1
+request query:  {}
+response time: 11
+err name: ReferenceError
+err message: a is not defined
+err stack: ReferenceError: a is not defined
+    at router.get (/Users/mac/Documents/koa2-test/routes/users.js:12:14)
+    at <anonymous>
+    at process._tickCallback (internal/process/next_tick.js:160:7)
+*************** error log end ***************
+
+[2018-02-10T15:35:16.661] [INFO] resLogger - 
+*************** response log start ***************
+request method: GET
+request originalUrl:  /users
+request client ip:  ::1
+request query:  {}
+response time: 14
+response status: 200
+response body: 
+"this is a users response!"
+*************** response log end ***************
+
+[2018-02-10T15:35:58.800] [ERROR] errorLogger - 
+*************** error log start ***************
+request method: GET
+request originalUrl:  /users
+request client ip:  ::1
+request query:  {}
+response time: 10
+err name: ReferenceError
+err message: a is not defined
+err stack: ReferenceError: a is not defined
+    at router.get (/Users/mac/Documents/koa2-test/routes/users.js:12:14)
+    at <anonymous>
+    at process._tickCallback (internal/process/next_tick.js:160:7)
+*************** error log end ***************
+
+[2018-02-10T15:37:58.114] [ERROR] errorLogger - 
+*************** error log start ***************
+request method: GET
+request originalUrl:  /users
+request client ip:  ::1
+request query:  {}
+response time: 5
+err name: ReferenceError
+err message: a is not defined
+err stack: ReferenceError: a is not defined
+    at router.get (/Users/mac/Documents/koa2-test/routes/users.js:13:14)
+    at dispatch (/Users/mac/Documents/koa2-test/node_modules/koa-router/node_modules/koa-compose/index.js:44:32)
+    at next (/Users/mac/Documents/koa2-test/node_modules/koa-router/node_modules/koa-compose/index.js:45:18)
+    at /Users/mac/Documents/koa2-test/node_modules/koa-router/lib/router.js:346:16
+    at dispatch (/Users/mac/Documents/koa2-test/node_modules/koa-router/node_modules/koa-compose/index.js:44:32)
+    at /Users/mac/Documents/koa2-test/node_modules/koa-router/node_modules/koa-compose/index.js:36:12
+    at dispatch (/Users/mac/Documents/koa2-test/node_modules/koa-router/lib/router.js:351:31)
+    at dispatch (/Users/mac/Documents/koa2-test/node_modules/koa-compose/index.js:42:32)
+    at next (/Users/mac/Documents/koa2-test/node_modules/koa-compose/index.js:43:18)
+    at dispatch (/Users/mac/Documents/koa2-test/node_modules/koa-router/lib/router.js:332:32)
+    at dispatch (/Users/mac/Documents/koa2-test/node_modules/koa-compose/index.js:42:32)
+    at next (/Users/mac/Documents/koa2-test/node_modules/koa-compose/index.js:43:18)
+    at app.use (/Users/mac/Documents/koa2-test/app.js:40:11)
+    at dispatch (/Users/mac/Documents/koa2-test/node_modules/koa-compose/index.js:42:32)
+    at next (/Users/mac/Documents/koa2-test/node_modules/koa-compose/index.js:43:18)
+    at views (/Users/mac/Documents/koa2-test/node_modules/koa-views/lib/index.js:61:12)
+    at dispatch (/Users/mac/Documents/koa2-test/node_modules/koa-compose/index.js:42:32)
+    at next (/Users/mac/Documents/koa2-test/node_modules/koa-compose/index.js:43:18)
+    at send.then.done (/Users/mac/Documents/koa2-test/node_modules/koa-static/index.js:43:20)
+    at <anonymous>
+*************** error log end ***************
+
+[2018-02-10T15:38:15.361] [ERROR] errorLogger - 
+*************** error log start ***************
+request method: GET
+request originalUrl:  /users
+request client ip:  ::1
+request query:  {}
+response time: 15
+err name: ReferenceError
+err message: a is not defined
+err stack: ReferenceError: a is not defined
+    at router.get (/Users/mac/Documents/koa2-test/routes/users.js:14:14)
+    at <anonymous>
+    at process._tickCallback (internal/process/next_tick.js:160:7)
+*************** error log end ***************
+
+[2018-02-10T15:38:45.149] [INFO] resLogger - 
+*************** response log start ***************
+request method: GET
+request originalUrl:  /users
+request client ip:  ::1
+request query:  {}
+response time: 20
+response status: 200
+response body: 
+"this is a users response!"
+*************** response log end ***************
+
+[2018-02-10T15:46:02.491] [INFO] resLogger - 
+*************** response log start ***************
+request method: GET
+request originalUrl:  /bar
+request client ip:  ::1
+request query:  {}
+response time: 0
+response status: 404
+response body: 
+undefined
+*************** response log end ***************
+
+[2018-02-10T15:46:27.386] [INFO] resLogger - 
+*************** response log start ***************
+request method: GET
+request originalUrl:  /bar
+request client ip:  ::1
+request query:  {}
+response time: 0
+response status: 404
+response body: 
+undefined
+*************** response log end ***************
+
+[2018-02-10T15:46:31.478] [INFO] resLogger - 
+*************** response log start ***************
+request method: GET
+request originalUrl:  /bar
+request client ip:  ::1
+request query:  {}
+response time: 0
+response status: 404
+response body: 
+undefined
+*************** response log end ***************
+
+[2018-02-10T15:48:11.678] [INFO] resLogger - 
+*************** response log start ***************
+request method: GET
+request originalUrl:  /bar
+request client ip:  ::1
+request query:  {}
+response time: 0
+response status: 404
+response body: 
+undefined
+*************** response log end ***************
+
+[2018-02-10T15:48:53.147] [INFO] resLogger - 
+*************** response log start ***************
+request method: GET
+request originalUrl:  /users
+request client ip:  ::1
+request query:  {}
+response time: 22
+response status: 200
+response body: 
+"this is a users response!"
+*************** response log end ***************
+
+[2018-02-10T15:49:12.695] [INFO] resLogger - 
+*************** response log start ***************
+request method: GET
+request originalUrl:  /users
+request client ip:  ::1
+request query:  {}
+response time: 21
+response status: 200
+response body: 
+"this is a users response!"
+*************** response log end ***************
+
+[2018-02-10T15:49:27.370] [INFO] resLogger - 
+*************** response log start ***************
+request method: GET
+request originalUrl:  /users/bar
+request client ip:  ::1
+request query:  {}
+response time: 2
+response status: 200
+response body: 
+{}
+*************** response log end ***************
+
+[2018-02-10T15:50:50.507] [INFO] resLogger - 
+*************** response log start ***************
+request method: GET
+request originalUrl:  /users/bar
+request client ip:  ::1
+request query:  {}
+response time: 5
+response status: 200
+response body: 
+{}
+*************** response log end ***************
+
+[2018-02-10T15:55:21.255] [INFO] resLogger - 
+*************** response log start ***************
+request method: GET
+request originalUrl:  /users/bar
+request client ip:  ::1
+request query:  {}
+response time: 5
+response status: 200
+response body: 
+{}
+*************** response log end ***************
+
+[2018-02-10T15:56:54.001] [INFO] resLogger - 
+*************** response log start ***************
+request method: GET
+request originalUrl:  /users/bar
+request client ip:  ::1
+request query:  {}
+response time: 1
+response status: 200
+response body: 
+{}
+*************** response log end ***************
+

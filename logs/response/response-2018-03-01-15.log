@@ -1,0 +1,264 @@
+[2018-03-01T15:10:59.405] [ERROR] errorLogger - 
+*************** error log start ***************
+request method: GET
+request originalUrl:  /
+request client ip:  ::1
+request query:  {}
+response time: 3
+err name: TypeError
+err message: ctx.render is not a function
+err stack: TypeError: ctx.render is not a function
+    at router.get (/Users/mac/Documents/koa2-test/routes/index.js:5:13)
+    at dispatch (/Users/mac/Documents/koa2-test/node_modules/koa-router/node_modules/koa-compose/index.js:44:32)
+    at next (/Users/mac/Documents/koa2-test/node_modules/koa-router/node_modules/koa-compose/index.js:45:18)
+    at /Users/mac/Documents/koa2-test/node_modules/koa-router/lib/router.js:346:16
+    at dispatch (/Users/mac/Documents/koa2-test/node_modules/koa-router/node_modules/koa-compose/index.js:44:32)
+    at /Users/mac/Documents/koa2-test/node_modules/koa-router/node_modules/koa-compose/index.js:36:12
+    at dispatch (/Users/mac/Documents/koa2-test/node_modules/koa-router/lib/router.js:351:31)
+    at dispatch (/Users/mac/Documents/koa2-test/node_modules/koa-compose/index.js:42:32)
+    at next (/Users/mac/Documents/koa2-test/node_modules/koa-compose/index.js:43:18)
+    at app.use (/Users/mac/Documents/koa2-test/app.js:49:11)
+    at dispatch (/Users/mac/Documents/koa2-test/node_modules/koa-compose/index.js:42:32)
+    at next (/Users/mac/Documents/koa2-test/node_modules/koa-compose/index.js:43:18)
+    at /Users/mac/Documents/koa2-test/node_modules/koa-body/index.js:98:14
+    at <anonymous>
+    at process._tickCallback (internal/process/next_tick.js:160:7)
+*************** error log end ***************
+
+[2018-03-01T15:11:34.397] [ERROR] errorLogger - 
+*************** error log start ***************
+request method: GET
+request originalUrl:  /
+request client ip:  ::1
+request query:  {}
+response time: 2
+err name: TypeError
+err message: ctx.render is not a function
+err stack: TypeError: ctx.render is not a function
+    at router.get (/Users/mac/Documents/koa2-test/routes/index.js:5:13)
+    at dispatch (/Users/mac/Documents/koa2-test/node_modules/koa-router/node_modules/koa-compose/index.js:44:32)
+    at next (/Users/mac/Documents/koa2-test/node_modules/koa-router/node_modules/koa-compose/index.js:45:18)
+    at /Users/mac/Documents/koa2-test/node_modules/koa-router/lib/router.js:346:16
+    at dispatch (/Users/mac/Documents/koa2-test/node_modules/koa-router/node_modules/koa-compose/index.js:44:32)
+    at /Users/mac/Documents/koa2-test/node_modules/koa-router/node_modules/koa-compose/index.js:36:12
+    at dispatch (/Users/mac/Documents/koa2-test/node_modules/koa-router/lib/router.js:351:31)
+    at dispatch (/Users/mac/Documents/koa2-test/node_modules/koa-compose/index.js:42:32)
+    at next (/Users/mac/Documents/koa2-test/node_modules/koa-compose/index.js:43:18)
+    at app.use (/Users/mac/Documents/koa2-test/app.js:49:11)
+    at dispatch (/Users/mac/Documents/koa2-test/node_modules/koa-compose/index.js:42:32)
+    at next (/Users/mac/Documents/koa2-test/node_modules/koa-compose/index.js:43:18)
+    at /Users/mac/Documents/koa2-test/node_modules/koa-body/index.js:98:14
+    at <anonymous>
+    at process._tickCallback (internal/process/next_tick.js:160:7)
+*************** error log end ***************
+
+[2018-03-01T15:23:29.414] [ERROR] errorLogger - 
+*************** error log start ***************
+request method: GET
+request originalUrl:  /
+request client ip:  ::1
+request query:  {}
+response time: 2
+err name: TypeError
+err message: ctx.render is not a function
+err stack: TypeError: ctx.render is not a function
+    at router.get (/Users/mac/Documents/koa2-test/routes/index.js:5:13)
+    at dispatch (/Users/mac/Documents/koa2-test/node_modules/koa-router/node_modules/koa-compose/index.js:44:32)
+    at next (/Users/mac/Documents/koa2-test/node_modules/koa-router/node_modules/koa-compose/index.js:45:18)
+    at /Users/mac/Documents/koa2-test/node_modules/koa-router/lib/router.js:346:16
+    at dispatch (/Users/mac/Documents/koa2-test/node_modules/koa-router/node_modules/koa-compose/index.js:44:32)
+    at /Users/mac/Documents/koa2-test/node_modules/koa-router/node_modules/koa-compose/index.js:36:12
+    at dispatch (/Users/mac/Documents/koa2-test/node_modules/koa-router/lib/router.js:351:31)
+    at dispatch (/Users/mac/Documents/koa2-test/node_modules/koa-compose/index.js:42:32)
+    at next (/Users/mac/Documents/koa2-test/node_modules/koa-compose/index.js:43:18)
+    at app.use (/Users/mac/Documents/koa2-test/app.js:48:11)
+    at dispatch (/Users/mac/Documents/koa2-test/node_modules/koa-compose/index.js:42:32)
+    at next (/Users/mac/Documents/koa2-test/node_modules/koa-compose/index.js:43:18)
+    at /Users/mac/Documents/koa2-test/node_modules/koa-body/index.js:98:14
+    at <anonymous>
+    at process._tickCallback (internal/process/next_tick.js:160:7)
+*************** error log end ***************
+
+[2018-03-01T15:24:14.319] [ERROR] errorLogger - 
+*************** error log start ***************
+request method: GET
+request originalUrl:  /
+request client ip:  ::1
+request query:  {}
+response time: 13
+err name: Error
+err message: ENOENT: no such file or directory, stat '/Users/mac/Documents/koa2-test/parcel/dist/index.html'
+err stack: Error: ENOENT: no such file or directory, stat '/Users/mac/Documents/koa2-test/parcel/dist/index.html'
+*************** error log end ***************
+
+[2018-03-01T15:28:11.930] [ERROR] errorLogger - 
+*************** error log start ***************
+request method: GET
+request originalUrl:  /
+request client ip:  ::1
+request query:  {}
+response time: 13
+err name: Error
+err message: ENOENT: no such file or directory, stat '/Users/mac/Documents/koa2-test/parcel/dist/index.html'
+err stack: Error: ENOENT: no such file or directory, stat '/Users/mac/Documents/koa2-test/parcel/dist/index.html'
+*************** error log end ***************
+
+[2018-03-01T15:29:23.475] [ERROR] errorLogger - 
+*************** error log start ***************
+request method: GET
+request originalUrl:  /
+request client ip:  ::1
+request query:  {}
+response time: 3
+err name: Error
+err message: ENOENT: no such file or directory, stat '/Users/mac/Documents/koa2-test/parcel/dist/index.html'
+err stack: Error: ENOENT: no such file or directory, stat '/Users/mac/Documents/koa2-test/parcel/dist/index.html'
+*************** error log end ***************
+
+[2018-03-01T15:29:34.283] [ERROR] errorLogger - 
+*************** error log start ***************
+request method: GET
+request originalUrl:  /
+request client ip:  ::1
+request query:  {}
+response time: 2
+err name: Error
+err message: ENOENT: no such file or directory, stat '/Users/mac/Documents/koa2-test/parcel/dist/index.html'
+err stack: Error: ENOENT: no such file or directory, stat '/Users/mac/Documents/koa2-test/parcel/dist/index.html'
+*************** error log end ***************
+
+[2018-03-01T15:30:02.409] [ERROR] errorLogger - 
+*************** error log start ***************
+request method: GET
+request originalUrl:  /
+request client ip:  ::1
+request query:  {}
+response time: 2
+err name: TypeError
+err message: ctx.render is not a function
+err stack: TypeError: ctx.render is not a function
+    at router.get (/Users/mac/Documents/koa2-test/routes/index.js:5:13)
+    at dispatch (/Users/mac/Documents/koa2-test/node_modules/koa-router/node_modules/koa-compose/index.js:44:32)
+    at next (/Users/mac/Documents/koa2-test/node_modules/koa-router/node_modules/koa-compose/index.js:45:18)
+    at /Users/mac/Documents/koa2-test/node_modules/koa-router/lib/router.js:346:16
+    at dispatch (/Users/mac/Documents/koa2-test/node_modules/koa-router/node_modules/koa-compose/index.js:44:32)
+    at /Users/mac/Documents/koa2-test/node_modules/koa-router/node_modules/koa-compose/index.js:36:12
+    at dispatch (/Users/mac/Documents/koa2-test/node_modules/koa-router/lib/router.js:351:31)
+    at dispatch (/Users/mac/Documents/koa2-test/node_modules/koa-compose/index.js:42:32)
+    at next (/Users/mac/Documents/koa2-test/node_modules/koa-compose/index.js:43:18)
+    at app.use (/Users/mac/Documents/koa2-test/app.js:48:11)
+    at dispatch (/Users/mac/Documents/koa2-test/node_modules/koa-compose/index.js:42:32)
+    at next (/Users/mac/Documents/koa2-test/node_modules/koa-compose/index.js:43:18)
+    at /Users/mac/Documents/koa2-test/node_modules/koa-body/index.js:98:14
+    at <anonymous>
+    at process._tickCallback (internal/process/next_tick.js:160:7)
+*************** error log end ***************
+
+[2018-03-01T15:30:16.951] [ERROR] errorLogger - 
+*************** error log start ***************
+request method: GET
+request originalUrl:  /
+request client ip:  ::1
+request query:  {}
+response time: 20
+err name: Error
+err message: ENOENT: no such file or directory, stat '/Users/mac/Documents/koa2-test/parcel/dist/index.html'
+err stack: Error: ENOENT: no such file or directory, stat '/Users/mac/Documents/koa2-test/parcel/dist/index.html'
+*************** error log end ***************
+
+[2018-03-01T15:34:54.523] [ERROR] errorLogger - 
+*************** error log start ***************
+request method: GET
+request originalUrl:  /
+request client ip:  ::1
+request query:  {}
+response time: 12
+err name: Error
+err message: ENOENT: no such file or directory, stat '/Users/mac/Documents/koa2-test/parcel/dist/index.html'
+err stack: Error: ENOENT: no such file or directory, stat '/Users/mac/Documents/koa2-test/parcel/dist/index.html'
+*************** error log end ***************
+
+[2018-03-01T15:35:18.822] [ERROR] errorLogger - 
+*************** error log start ***************
+request method: GET
+request originalUrl:  /
+request client ip:  ::1
+request query:  {}
+response time: 16
+err name: Error
+err message: ENOENT: no such file or directory, stat '/Users/mac/Documents/koa2-test/parcel/dist/index.html'
+err stack: Error: ENOENT: no such file or directory, stat '/Users/mac/Documents/koa2-test/parcel/dist/index.html'
+*************** error log end ***************
+
+[2018-03-01T15:43:44.068] [ERROR] errorLogger - 
+*************** error log start ***************
+request method: GET
+request originalUrl:  /
+request client ip:  ::1
+request query:  {}
+response time: 12
+err name: Error
+err message: ENOENT: no such file or directory, stat '/Users/mac/Documents/koa2-test/parcel/dist/index.html'
+err stack: Error: ENOENT: no such file or directory, stat '/Users/mac/Documents/koa2-test/parcel/dist/index.html'
+*************** error log end ***************
+
+[2018-03-01T15:48:34.814] [ERROR] errorLogger - 
+*************** error log start ***************
+request method: GET
+request originalUrl:  /
+request client ip:  ::1
+request query:  {}
+response time: 8
+err name: Error
+err message: ENOENT: no such file or directory, stat '/Users/mac/Documents/koa2-test/parcel/dist/index.html'
+err stack: Error: ENOENT: no such file or directory, stat '/Users/mac/Documents/koa2-test/parcel/dist/index.html'
+*************** error log end ***************
+
+[2018-03-01T15:48:54.444] [ERROR] errorLogger - 
+*************** error log start ***************
+request method: GET
+request originalUrl:  /
+request client ip:  ::1
+request query:  {}
+response time: 11
+err name: Error
+err message: ENOENT: no such file or directory, stat '/Users/mac/Documents/koa2-test/parcel/dist/index.html'
+err stack: Error: ENOENT: no such file or directory, stat '/Users/mac/Documents/koa2-test/parcel/dist/index.html'
+*************** error log end ***************
+
+[2018-03-01T15:49:58.614] [ERROR] errorLogger - 
+*************** error log start ***************
+request method: GET
+request originalUrl:  /
+request client ip:  ::1
+request query:  {}
+response time: 10
+err name: Error
+err message: ENOENT: no such file or directory, stat '/Users/mac/Documents/koa2-test/parcel/dist/index.html'
+err stack: Error: ENOENT: no such file or directory, stat '/Users/mac/Documents/koa2-test/parcel/dist/index.html'
+*************** error log end ***************
+
+[2018-03-01T15:51:11.075] [INFO] resLogger - 
+*************** response log start ***************
+request method: GET
+request originalUrl:  /
+request client ip:  ::1
+request query:  {}
+response time: 10
+response status: 200
+response body: 
+{"_readableState":{"objectMode":false,"highWaterMark":65536,"buffer":{"head":null,"tail":null,"length":0},"length":0,"pipes":null,"pipesCount":0,"flowing":null,"ended":false,"endEmitted":false,"reading":false,"sync":true,"needReadable":false,"emittedReadable":false,"readableListening":false,"resumeScheduled":false,"destroyed":false,"defaultEncoding":"utf8","awaitDrain":0,"readingMore":false,"decoder":null,"encoding":null},"readable":true,"domain":null,"_events":{},"_eventsCount":2,"path":"/Users/mac/Documents/koa2-test/dist/index.html","fd":null,"flags":"r","mode":438,"autoClose":true,"bytesRead":0,"closed":false}
+*************** response log end ***************
+
+[2018-03-01T15:58:30.804] [INFO] resLogger - 
+*************** response log start ***************
+request method: GET
+request originalUrl:  /
+request client ip:  ::1
+request query:  {}
+response time: 1
+response status: 404
+response body: 
+undefined
+*************** response log end ***************
+

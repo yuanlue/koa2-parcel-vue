@@ -1,0 +1,120 @@
+[2018-03-02T09:37:24.537] [INFO] resLogger - 
+*************** response log start ***************
+request method: GET
+request originalUrl:  /
+request client ip:  ::1
+request query:  {}
+response time: 15
+response status: 200
+response body: 
+{"_readableState":{"objectMode":false,"highWaterMark":65536,"buffer":{"head":null,"tail":null,"length":0},"length":0,"pipes":null,"pipesCount":0,"flowing":null,"ended":false,"endEmitted":false,"reading":false,"sync":true,"needReadable":false,"emittedReadable":false,"readableListening":false,"resumeScheduled":false,"destroyed":false,"defaultEncoding":"utf8","awaitDrain":0,"readingMore":false,"decoder":null,"encoding":null},"readable":true,"domain":null,"_events":{},"_eventsCount":2,"path":"/Users/mac/Documents/koa2-test/dist/index.html","fd":null,"flags":"r","mode":438,"autoClose":true,"bytesRead":0,"closed":false}
+*************** response log end ***************
+
+[2018-03-02T09:37:24.699] [INFO] resLogger - 
+*************** response log start ***************
+request method: GET
+request originalUrl:  /09dcaa2ec5d67141de6784d1fa13fa8e.css
+request client ip:  ::1
+request query:  {}
+response time: 3
+response status: 200
+response body: 
+{"_readableState":{"objectMode":false,"highWaterMark":65536,"buffer":{"head":null,"tail":null,"length":0},"length":0,"pipes":null,"pipesCount":0,"flowing":null,"ended":false,"endEmitted":false,"reading":false,"sync":true,"needReadable":false,"emittedReadable":false,"readableListening":false,"resumeScheduled":false,"destroyed":false,"defaultEncoding":"utf8","awaitDrain":0,"readingMore":false,"decoder":null,"encoding":null},"readable":true,"domain":null,"_events":{},"_eventsCount":2,"path":"/Users/mac/Documents/koa2-test/dist/09dcaa2ec5d67141de6784d1fa13fa8e.css","fd":null,"flags":"r","mode":438,"autoClose":true,"bytesRead":0,"closed":false}
+*************** response log end ***************
+
+[2018-03-02T09:37:24.702] [INFO] resLogger - 
+*************** response log start ***************
+request method: GET
+request originalUrl:  /09dcaa2ec5d67141de6784d1fa13fa8e.js
+request client ip:  ::1
+request query:  {}
+response time: 5
+response status: 200
+response body: 
+{"_readableState":{"objectMode":false,"highWaterMark":65536,"buffer":{"head":null,"tail":null,"length":0},"length":0,"pipes":null,"pipesCount":0,"flowing":null,"ended":false,"endEmitted":false,"reading":false,"sync":true,"needReadable":false,"emittedReadable":false,"readableListening":false,"resumeScheduled":false,"destroyed":false,"defaultEncoding":"utf8","awaitDrain":0,"readingMore":false,"decoder":null,"encoding":null},"readable":true,"domain":null,"_events":{},"_eventsCount":2,"path":"/Users/mac/Documents/koa2-test/dist/09dcaa2ec5d67141de6784d1fa13fa8e.js","fd":null,"flags":"r","mode":438,"autoClose":true,"bytesRead":0,"closed":false}
+*************** response log end ***************
+
+[2018-03-02T09:46:57.465] [ERROR] errorLogger - 
+*************** error log start ***************
+request method: GET
+request originalUrl:  /
+request client ip:  ::1
+request query:  {}
+response time: 7
+err name: Error
+err message: ENOENT: no such file or directory, stat '/Users/mac/Documents/koa2-test/dist/index.html'
+err stack: Error: ENOENT: no such file or directory, stat '/Users/mac/Documents/koa2-test/dist/index.html'
+*************** error log end ***************
+
+[2018-03-02T09:47:52.655] [INFO] resLogger - 
+*************** response log start ***************
+request method: GET
+request originalUrl:  /
+request client ip:  ::1
+request query:  {}
+response time: 9
+response status: 200
+response body: 
+{"_readableState":{"objectMode":false,"highWaterMark":65536,"buffer":{"head":null,"tail":null,"length":0},"length":0,"pipes":null,"pipesCount":0,"flowing":null,"ended":false,"endEmitted":false,"reading":false,"sync":true,"needReadable":false,"emittedReadable":false,"readableListening":false,"resumeScheduled":false,"destroyed":false,"defaultEncoding":"utf8","awaitDrain":0,"readingMore":false,"decoder":null,"encoding":null},"readable":true,"domain":null,"_events":{},"_eventsCount":2,"path":"/Users/mac/Documents/koa2-test/dist/index.html","fd":null,"flags":"r","mode":438,"autoClose":true,"bytesRead":0,"closed":false}
+*************** response log end ***************
+
+[2018-03-02T09:47:52.680] [INFO] resLogger - 
+*************** response log start ***************
+request method: GET
+request originalUrl:  /09dcaa2ec5d67141de6784d1fa13fa8e.js
+request client ip:  ::1
+request query:  {}
+response time: 3
+response status: 200
+response body: 
+{"_readableState":{"objectMode":false,"highWaterMark":65536,"buffer":{"head":null,"tail":null,"length":0},"length":0,"pipes":null,"pipesCount":0,"flowing":null,"ended":false,"endEmitted":false,"reading":false,"sync":true,"needReadable":false,"emittedReadable":false,"readableListening":false,"resumeScheduled":false,"destroyed":false,"defaultEncoding":"utf8","awaitDrain":0,"readingMore":false,"decoder":null,"encoding":null},"readable":true,"domain":null,"_events":{},"_eventsCount":2,"path":"/Users/mac/Documents/koa2-test/dist/09dcaa2ec5d67141de6784d1fa13fa8e.js","fd":null,"flags":"r","mode":438,"autoClose":true,"bytesRead":0,"closed":false}
+*************** response log end ***************
+
+[2018-03-02T09:48:02.561] [INFO] resLogger - 
+*************** response log start ***************
+request method: GET
+request originalUrl:  /
+request client ip:  ::1
+request query:  {}
+response time: 1
+response status: 200
+response body: 
+{"_readableState":{"objectMode":false,"highWaterMark":65536,"buffer":{"head":null,"tail":null,"length":0},"length":0,"pipes":null,"pipesCount":0,"flowing":null,"ended":false,"endEmitted":false,"reading":false,"sync":true,"needReadable":false,"emittedReadable":false,"readableListening":false,"resumeScheduled":false,"destroyed":false,"defaultEncoding":"utf8","awaitDrain":0,"readingMore":false,"decoder":null,"encoding":null},"readable":true,"domain":null,"_events":{},"_eventsCount":2,"path":"/Users/mac/Documents/koa2-test/dist/index.html","fd":null,"flags":"r","mode":438,"autoClose":true,"bytesRead":0,"closed":false}
+*************** response log end ***************
+
+[2018-03-02T09:48:02.589] [INFO] resLogger - 
+*************** response log start ***************
+request method: GET
+request originalUrl:  /09dcaa2ec5d67141de6784d1fa13fa8e.js
+request client ip:  ::1
+request query:  {}
+response time: 1
+response status: 200
+response body: 
+{"_readableState":{"objectMode":false,"highWaterMark":65536,"buffer":{"head":null,"tail":null,"length":0},"length":0,"pipes":null,"pipesCount":0,"flowing":null,"ended":false,"endEmitted":false,"reading":false,"sync":true,"needReadable":false,"emittedReadable":false,"readableListening":false,"resumeScheduled":false,"destroyed":false,"defaultEncoding":"utf8","awaitDrain":0,"readingMore":false,"decoder":null,"encoding":null},"readable":true,"domain":null,"_events":{},"_eventsCount":2,"path":"/Users/mac/Documents/koa2-test/dist/09dcaa2ec5d67141de6784d1fa13fa8e.js","fd":null,"flags":"r","mode":438,"autoClose":true,"bytesRead":0,"closed":false}
+*************** response log end ***************
+
+[2018-03-02T09:48:46.626] [INFO] resLogger - 
+*************** response log start ***************
+request method: GET
+request originalUrl:  /
+request client ip:  ::1
+request query:  {}
+response time: 1
+response status: 200
+response body: 
+{"_readableState":{"objectMode":false,"highWaterMark":65536,"buffer":{"head":null,"tail":null,"length":0},"length":0,"pipes":null,"pipesCount":0,"flowing":null,"ended":false,"endEmitted":false,"reading":false,"sync":true,"needReadable":false,"emittedReadable":false,"readableListening":false,"resumeScheduled":false,"destroyed":false,"defaultEncoding":"utf8","awaitDrain":0,"readingMore":false,"decoder":null,"encoding":null},"readable":true,"domain":null,"_events":{},"_eventsCount":2,"path":"/Users/mac/Documents/koa2-test/dist/index.html","fd":null,"flags":"r","mode":438,"autoClose":true,"bytesRead":0,"closed":false}
+*************** response log end ***************
+
+[2018-03-02T09:48:46.641] [INFO] resLogger - 
+*************** response log start ***************
+request method: GET
+request originalUrl:  /09dcaa2ec5d67141de6784d1fa13fa8e.js
+request client ip:  ::1
+request query:  {}
+response time: 0
+response status: 200
+response body: 
+{"_readableState":{"objectMode":false,"highWaterMark":65536,"buffer":{"head":null,"tail":null,"length":0},"length":0,"pipes":null,"pipesCount":0,"flowing":null,"ended":false,"endEmitted":false,"reading":false,"sync":true,"needReadable":false,"emittedReadable":false,"readableListening":false,"resumeScheduled":false,"destroyed":false,"defaultEncoding":"utf8","awaitDrain":0,"readingMore":false,"decoder":null,"encoding":null},"readable":true,"domain":null,"_events":{},"_eventsCount":2,"path":"/Users/mac/Documents/koa2-test/dist/09dcaa2ec5d67141de6784d1fa13fa8e.js","fd":null,"flags":"r","mode":438,"autoClose":true,"bytesRead":0,"closed":false}
+*************** response log end ***************
+
